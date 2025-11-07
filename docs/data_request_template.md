@@ -1,7 +1,7 @@
 # Data Request Template (for anonymized internal samples)
 
-**Project:** NLP-Based Early Warning System for Regulatory Compliance (Kenyan Banking)  
-**Requester:** Melanie Mweru Wachira  
+**Project:** NLP-Based Early Warning System for Regulatory Compliance (Kenyan Banking)
+**Requester:** Melanie Mweru Wachira
 **Purpose:** Academic prototype to detect potential non-compliance in AML/KYC narratives.
 
 ## Requested Fields (sample/anonymized)
