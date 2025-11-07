@@ -1,0 +1,451 @@
+transaction_id,branch,client_id,client_name,transaction_date,amount,currency,narrative
+TXN01718,Westlands,CL207,Client_1718,2022-12-23,1743577.7,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00450,Mombasa,CL237,Client_450,2024-11-24,257442.21,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02667,Nairobi_Main,CL684,Client_2667,2023-12-29,978447.05,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00985,Nairobi_Main,CL920,Client_985,2023-08-03,1464109.43,KES,Large transfer to foreign account in Hong Kong without updated KYC.
+TXN00673,Westlands,CL563,Client_673,2024-12-24,425116.57,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01597,Westlands,CL134,Client_1597,2024-11-13,833515.84,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02542,Mombasa,CL120,Client_2542,2024-10-02,223920.55,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00230,Nairobi_Main,CL623,Client_230,2024-02-06,869538.96,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00222,Mombasa,CL700,Client_222,2023-12-18,146226.84,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00548,Nairobi_Main,CL508,Client_548,2024-10-24,1223540.36,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02758,Eldoret,CL251,Client_2758,2024-06-24,317807.95,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01332,Eldoret,CL503,Client_1332,2022-07-19,1268230.65,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00291,Mombasa,CL512,Client_291,2023-04-27,467107.37,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02225,Westlands,CL366,Client_2225,2024-04-02,342983.93,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02407,Nairobi_Main,CL742,Client_2407,2023-07-31,456058.74,KES,Third-party deposits followed by immediate outward remittances.
+TXN00245,Kisumu,CL519,Client_245,2024-07-26,233232.83,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00295,Eldoret,CL752,Client_295,2023-09-16,693780.45,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00182,Nairobi_Main,CL175,Client_182,2023-12-02,296555.51,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02421,Eldoret,CL263,Client_2421,2022-07-19,1124807.42,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01525,Eldoret,CL759,Client_1525,2022-04-27,1050749.11,KES,Large transfer to foreign account in Mauritius without updated KYC.
+TXN00024,Westlands,CL832,Client_24,2024-05-16,199321.88,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01993,Kisumu,CL864,Client_1993,2023-01-16,1242007.23,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02320,Kisumu,CL270,Client_2320,2022-04-17,250169.02,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00289,Nairobi_Main,CL869,Client_289,2024-10-03,1891522.62,KES,Customer refused to provide source of funds documentation.
+TXN01090,Eldoret,CL146,Client_1090,2024-10-03,470972.56,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02790,Westlands,CL463,Client_2790,2024-02-05,613538.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02832,Kisumu,CL397,Client_2832,2022-03-24,639205.07,KES,Customer refused to provide source of funds documentation.
+TXN02840,Kisumu,CL950,Client_2840,2024-07-23,483433.17,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00652,Kisumu,CL727,Client_652,2023-11-25,4048708.61,KES,Large transfer to foreign account in Mauritius without updated KYC.
+TXN02004,Kisumu,CL185,Client_2004,2023-03-02,1113294.98,KES,Dormant account reactivated with high-value transfers to China.
+TXN00426,Kisumu,CL894,Client_426,2024-07-28,5034216.2,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN02477,Nairobi_Main,CL385,Client_2477,2024-06-12,459729.49,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00414,Westlands,CL755,Client_414,2024-10-09,1321626.56,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00430,Nairobi_Main,CL508,Client_430,2023-12-02,301683.72,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02161,Mombasa,CL429,Client_2161,2022-10-06,540196.28,KES,Large transfer to foreign account in Hong Kong without updated KYC.
+TXN01404,Nairobi_Main,CL531,Client_1404,2024-09-28,2805403.62,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00617,Nairobi_Main,CL811,Client_617,2023-07-17,583369.68,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02580,Mombasa,CL513,Client_2580,2023-11-16,1850625.67,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02086,Kisumu,CL382,Client_2086,2024-01-27,229923.36,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01607,Westlands,CL301,Client_1607,2022-04-12,588816.12,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00337,Eldoret,CL556,Client_337,2024-09-23,303201.22,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02176,Kisumu,CL962,Client_2176,2023-07-19,2333026.96,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01602,Nairobi_Main,CL834,Client_1602,2023-11-05,1414679.4,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01454,Mombasa,CL760,Client_1454,2024-04-04,3338987.52,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01094,Kisumu,CL517,Client_1094,2022-12-13,1539166.04,KES,Third-party deposits followed by immediate outward remittances.
+TXN01552,Eldoret,CL536,Client_1552,2024-12-07,468564.19,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01715,Kisumu,CL702,Client_1715,2023-12-14,371487.42,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02400,Nairobi_Main,CL143,Client_2400,2023-03-25,1563456.92,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00270,Kisumu,CL340,Client_270,2022-01-06,592151.86,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00561,Nairobi_Main,CL390,Client_561,2023-02-16,661881.89,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01812,Mombasa,CL396,Client_1812,2024-09-04,598843.22,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02331,Nairobi_Main,CL854,Client_2331,2023-11-30,439865.0,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01234,Kisumu,CL282,Client_1234,2023-03-20,14972689.56,KES,Customer refused to provide source of funds documentation.
+TXN00013,Kisumu,CL531,Client_13,2023-09-06,640096.09,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01796,Westlands,CL918,Client_1796,2024-01-12,319215.43,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01730,Mombasa,CL740,Client_1730,2024-02-10,1956619.06,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02835,Nairobi_Main,CL317,Client_2835,2023-04-24,455718.79,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02125,Westlands,CL243,Client_2125,2024-08-20,548929.95,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02662,Kisumu,CL130,Client_2662,2023-11-28,288788.86,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00185,Nairobi_Main,CL439,Client_185,2023-02-25,462118.23,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01931,Nairobi_Main,CL488,Client_1931,2023-08-11,228505.44,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01133,Westlands,CL442,Client_1133,2022-06-17,1672111.72,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00065,Eldoret,CL387,Client_65,2022-12-11,954333.12,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00534,Kisumu,CL327,Client_534,2023-03-16,493898.55,KES,Large transfer to foreign account in China without updated KYC.
+TXN01901,Nairobi_Main,CL240,Client_1901,2024-11-13,2750405.64,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00715,Mombasa,CL200,Client_715,2024-12-11,526315.28,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01042,Kisumu,CL617,Client_1042,2022-12-17,391907.46,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00142,Westlands,CL302,Client_142,2024-03-31,1349169.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01544,Westlands,CL569,Client_1544,2022-10-30,973461.32,KES,Third-party deposits followed by immediate outward remittances.
+TXN00033,Nairobi_Main,CL951,Client_33,2022-10-18,1451129.1,KES,Dormant account reactivated with high-value transfers to UK.
+TXN02159,Eldoret,CL534,Client_2159,2023-02-19,1325301.66,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01590,Kisumu,CL593,Client_1590,2023-02-13,1587275.36,KES,Third-party deposits followed by immediate outward remittances.
+TXN00201,Westlands,CL143,Client_201,2024-05-17,694155.41,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02474,Westlands,CL242,Client_2474,2022-09-28,205513.86,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02732,Westlands,CL914,Client_2732,2024-04-23,6692599.03,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN00366,Westlands,CL651,Client_366,2023-02-07,1023666.73,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01324,Kisumu,CL957,Client_1324,2023-03-25,2275821.13,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN00356,Westlands,CL787,Client_356,2022-04-22,267862.6,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01059,Eldoret,CL462,Client_1059,2022-09-11,790578.4,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00390,Westlands,CL324,Client_390,2024-04-21,360831.89,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00709,Mombasa,CL112,Client_709,2023-08-15,125825.26,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02753,Westlands,CL151,Client_2753,2024-11-07,390013.29,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01041,Mombasa,CL525,Client_1041,2022-01-14,6686057.34,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01186,Mombasa,CL578,Client_1186,2024-06-04,1043968.46,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01410,Eldoret,CL291,Client_1410,2023-05-26,453348.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01535,Nairobi_Main,CL316,Client_1535,2022-02-16,389950.25,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00332,Kisumu,CL323,Client_332,2024-12-22,288347.59,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02450,Westlands,CL173,Client_2450,2023-09-20,788993.26,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN01208,Kisumu,CL775,Client_1208,2024-12-09,339751.37,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01319,Kisumu,CL858,Client_1319,2023-01-21,352688.83,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01741,Eldoret,CL857,Client_1741,2022-06-15,1337076.01,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00922,Westlands,CL379,Client_922,2022-10-07,583112.98,KES,Dormant account reactivated with high-value transfers to China.
+TXN02916,Mombasa,CL725,Client_2916,2024-12-25,1970949.93,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01991,Eldoret,CL367,Client_1991,2023-09-13,946273.26,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02855,Mombasa,CL745,Client_2855,2022-05-30,1267518.24,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00591,Eldoret,CL496,Client_591,2024-11-23,568124.79,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00314,Eldoret,CL209,Client_314,2022-02-21,954990.57,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02189,Kisumu,CL899,Client_2189,2022-12-19,400123.65,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02473,Mombasa,CL334,Client_2473,2024-06-29,311704.15,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02668,Kisumu,CL525,Client_2668,2022-01-16,484430.39,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02766,Westlands,CL187,Client_2766,2022-10-30,3073444.91,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN02851,Nairobi_Main,CL452,Client_2851,2024-04-14,368137.52,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01631,Mombasa,CL771,Client_1631,2022-11-12,758663.01,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00773,Kisumu,CL376,Client_773,2023-02-19,841284.71,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01446,Nairobi_Main,CL650,Client_1446,2022-08-06,817314.13,KES,Dormant account reactivated with high-value transfers to Somalia.
+TXN01842,Mombasa,CL402,Client_1842,2022-07-17,144741.64,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02262,Westlands,CL778,Client_2262,2023-04-02,717125.64,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01635,Nairobi_Main,CL862,Client_1635,2022-08-14,1086750.06,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN01933,Westlands,CL379,Client_1933,2023-02-13,390148.49,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02805,Westlands,CL140,Client_2805,2024-04-12,1347932.07,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02434,Eldoret,CL955,Client_2434,2024-06-10,478280.19,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00976,Mombasa,CL568,Client_976,2024-10-06,268179.91,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02326,Westlands,CL454,Client_2326,2023-06-20,862956.15,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02500,Mombasa,CL387,Client_2500,2024-08-09,685590.58,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02919,Nairobi_Main,CL909,Client_2919,2024-12-25,578762.38,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00664,Kisumu,CL669,Client_664,2022-05-26,369387.93,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00009,Nairobi_Main,CL398,Client_9,2024-04-27,389012.96,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02821,Eldoret,CL648,Client_2821,2024-04-14,444533.91,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00965,Kisumu,CL616,Client_965,2024-02-20,507466.01,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00035,Mombasa,CL199,Client_35,2024-06-16,961049.73,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01906,Mombasa,CL673,Client_1906,2024-06-23,2197751.24,KES,Dormant account reactivated with high-value transfers to Hong Kong.
+TXN00155,Nairobi_Main,CL426,Client_155,2023-03-25,663411.49,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02057,Eldoret,CL900,Client_2057,2022-04-15,387180.16,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01624,Eldoret,CL346,Client_1624,2024-09-05,338506.69,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02147,Westlands,CL743,Client_2147,2024-04-10,347731.68,KES,Customer refused to provide source of funds documentation.
+TXN02081,Mombasa,CL909,Client_2081,2024-02-23,1469562.31,KES,Customer refused to provide source of funds documentation.
+TXN01900,Westlands,CL268,Client_1900,2024-08-31,1125871.22,KES,Third-party deposits followed by immediate outward remittances.
+TXN02233,Nairobi_Main,CL993,Client_2233,2022-11-13,136070.35,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00110,Kisumu,CL156,Client_110,2024-10-20,512926.51,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01043,Kisumu,CL832,Client_1043,2024-04-29,1149774.72,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00175,Westlands,CL751,Client_175,2022-07-01,655847.49,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01180,Kisumu,CL695,Client_1180,2024-04-01,249568.19,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02205,Eldoret,CL509,Client_2205,2024-03-03,276646.15,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01523,Mombasa,CL475,Client_1523,2024-11-15,461141.92,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00394,Eldoret,CL800,Client_394,2024-05-09,7635453.48,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02845,Nairobi_Main,CL289,Client_2845,2023-04-02,628909.66,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01551,Mombasa,CL523,Client_1551,2024-04-20,503778.59,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00237,Mombasa,CL787,Client_237,2024-01-05,237369.12,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00067,Nairobi_Main,CL383,Client_67,2022-09-17,1376687.61,KES,Customer refused to provide source of funds documentation.
+TXN01534,Nairobi_Main,CL927,Client_1534,2024-01-11,1286142.1,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02614,Westlands,CL500,Client_2614,2024-10-01,1460268.41,KES,Dormant account reactivated with high-value transfers to China.
+TXN01747,Westlands,CL540,Client_1747,2024-05-24,1069432.12,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01684,Mombasa,CL198,Client_1684,2022-10-11,678100.98,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00274,Westlands,CL995,Client_274,2022-03-22,544249.54,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02319,Kisumu,CL296,Client_2319,2024-11-17,888711.93,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN00300,Nairobi_Main,CL268,Client_300,2024-10-05,839649.81,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01335,Kisumu,CL248,Client_1335,2023-03-06,599629.49,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00822,Mombasa,CL299,Client_822,2024-10-01,5222113.15,KES,Large transfer to foreign account in UK without updated KYC.
+TXN00036,Nairobi_Main,CL407,Client_36,2022-04-02,229902.24,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00260,Eldoret,CL616,Client_260,2022-12-13,929352.92,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00239,Eldoret,CL881,Client_239,2023-01-10,340016.52,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01739,Eldoret,CL936,Client_1739,2023-11-07,1050960.76,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00322,Eldoret,CL659,Client_322,2023-02-07,2509618.54,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN02468,Mombasa,CL400,Client_2468,2022-11-30,554907.37,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00766,Mombasa,CL627,Client_766,2022-08-26,330306.57,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00387,Eldoret,CL264,Client_387,2022-10-03,1997846.44,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01711,Eldoret,CL499,Client_1711,2024-11-16,3978329.65,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02885,Kisumu,CL148,Client_2885,2022-10-16,78963.94,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02411,Westlands,CL215,Client_2411,2022-03-27,958518.7,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02690,Westlands,CL514,Client_2690,2024-04-22,2549026.08,KES,Dormant account reactivated with high-value transfers to Cyprus.
+TXN02077,Mombasa,CL676,Client_2077,2024-03-16,831544.26,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00970,Kisumu,CL865,Client_970,2024-01-09,198482.74,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01638,Nairobi_Main,CL462,Client_1638,2024-06-02,726881.94,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00234,Westlands,CL838,Client_234,2022-02-22,342449.59,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00769,Westlands,CL855,Client_769,2024-04-24,348405.76,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00906,Nairobi_Main,CL960,Client_906,2023-03-15,1531553.13,KES,Dormant account reactivated with high-value transfers to Dubai.
+TXN01975,Eldoret,CL473,Client_1975,2022-08-17,533334.39,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02995,Kisumu,CL352,Client_2995,2024-08-17,623605.59,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01068,Eldoret,CL610,Client_1068,2024-05-17,4175497.66,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02718,Westlands,CL211,Client_2718,2023-09-20,1004160.11,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01818,Kisumu,CL493,Client_1818,2023-10-15,326633.06,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00900,Kisumu,CL138,Client_900,2024-08-01,704157.9,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00849,Eldoret,CL728,Client_849,2024-12-12,345788.3,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00853,Nairobi_Main,CL862,Client_853,2022-08-31,345873.72,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01157,Eldoret,CL443,Client_1157,2023-09-06,333799.15,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01148,Kisumu,CL463,Client_1148,2024-05-12,197198.16,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00607,Mombasa,CL609,Client_607,2024-10-18,314376.8,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01639,Mombasa,CL614,Client_1639,2024-06-01,2289324.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00418,Westlands,CL188,Client_418,2023-07-20,585939.75,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00275,Kisumu,CL536,Client_275,2022-08-26,607217.43,KES,Large transfer to foreign account in Dubai without updated KYC.
+TXN02261,Eldoret,CL110,Client_2261,2024-03-20,733598.38,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00712,Kisumu,CL921,Client_712,2022-07-21,1346417.88,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00475,Westlands,CL410,Client_475,2022-01-22,1709099.87,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01752,Nairobi_Main,CL158,Client_1752,2022-09-17,2703581.11,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01212,Mombasa,CL986,Client_1212,2023-02-27,332689.99,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02583,Eldoret,CL137,Client_2583,2024-11-02,1400292.1,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02054,Eldoret,CL384,Client_2054,2022-07-07,436870.36,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02672,Nairobi_Main,CL156,Client_2672,2023-09-07,812132.35,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01036,Eldoret,CL724,Client_1036,2022-07-28,1626255.57,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02520,Nairobi_Main,CL142,Client_2520,2022-05-24,682647.71,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02043,Eldoret,CL274,Client_2043,2023-12-06,916502.84,KES,Third-party deposits followed by immediate outward remittances.
+TXN01240,Westlands,CL145,Client_1240,2024-05-01,1689389.26,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01724,Westlands,CL544,Client_1724,2024-12-18,831309.33,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01660,Nairobi_Main,CL947,Client_1660,2023-12-24,1200099.46,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00876,Westlands,CL166,Client_876,2024-01-15,1897770.82,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01949,Westlands,CL881,Client_1949,2024-11-04,4046833.27,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00364,Mombasa,CL573,Client_364,2024-07-01,2108612.17,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN00273,Mombasa,CL403,Client_273,2023-06-25,4184289.09,KES,Large transfer to foreign account in Hong Kong without updated KYC.
+TXN01705,Mombasa,CL495,Client_1705,2022-08-08,719903.94,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02923,Nairobi_Main,CL131,Client_2923,2022-09-13,471517.69,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02883,Westlands,CL323,Client_2883,2024-07-05,850705.55,KES,Dormant account reactivated with high-value transfers to China.
+TXN02494,Westlands,CL787,Client_2494,2024-02-05,1484431.46,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00440,Mombasa,CL223,Client_440,2024-11-27,519756.97,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00029,Nairobi_Main,CL110,Client_29,2022-07-21,354886.36,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00223,Kisumu,CL866,Client_223,2022-07-05,873603.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00506,Kisumu,CL655,Client_506,2024-09-30,384236.0,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01460,Kisumu,CL439,Client_1460,2024-09-07,865642.21,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02345,Nairobi_Main,CL163,Client_2345,2022-05-09,119689.95,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02984,Mombasa,CL906,Client_2984,2023-03-21,1904730.9,KES,Large transfer to foreign account in UK without updated KYC.
+TXN02914,Eldoret,CL887,Client_2914,2023-01-18,918544.19,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00005,Kisumu,CL209,Client_5,2022-07-07,1189759.76,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN00338,Westlands,CL428,Client_338,2024-11-18,431503.07,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01743,Westlands,CL765,Client_1743,2023-12-19,567522.98,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00687,Nairobi_Main,CL691,Client_687,2024-10-17,456695.53,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01882,Nairobi_Main,CL534,Client_1882,2024-10-11,6287188.45,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01174,Kisumu,CL908,Client_1174,2022-11-01,517199.94,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01039,Mombasa,CL850,Client_1039,2022-07-23,632298.12,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01511,Westlands,CL255,Client_1511,2024-08-06,243000.22,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02003,Kisumu,CL512,Client_2003,2022-03-08,719867.23,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01778,Kisumu,CL591,Client_1778,2023-03-23,526535.61,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00050,Eldoret,CL241,Client_50,2024-02-25,300518.28,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02148,Eldoret,CL369,Client_2148,2024-06-19,302565.2,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02728,Eldoret,CL518,Client_2728,2022-09-04,1381987.37,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00144,Nairobi_Main,CL302,Client_144,2024-06-27,614917.69,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02991,Mombasa,CL396,Client_2991,2023-05-22,1561997.23,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00520,Mombasa,CL952,Client_520,2022-06-13,914352.08,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01333,Eldoret,CL986,Client_1333,2022-04-21,465370.9,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02807,Mombasa,CL197,Client_2807,2024-08-03,1366085.93,KES,Large transfer to foreign account in Dubai without updated KYC.
+TXN01144,Mombasa,CL198,Client_1144,2024-04-21,1644618.18,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN02824,Westlands,CL536,Client_2824,2022-02-06,202069.53,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01836,Westlands,CL596,Client_1836,2023-01-19,695963.48,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00789,Eldoret,CL655,Client_789,2023-03-01,514465.62,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00658,Kisumu,CL800,Client_658,2024-08-11,1437315.11,KES,Customer refused to provide source of funds documentation.
+TXN00178,Mombasa,CL548,Client_178,2024-05-09,1494756.47,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01307,Mombasa,CL509,Client_1307,2022-06-16,551130.45,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02866,Kisumu,CL744,Client_2866,2022-05-30,1113448.35,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN02698,Kisumu,CL311,Client_2698,2024-07-04,215657.45,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01822,Mombasa,CL549,Client_1822,2023-04-04,570230.71,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01229,Mombasa,CL169,Client_1229,2022-06-19,1060992.54,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02943,Westlands,CL209,Client_2943,2023-03-20,846051.79,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00061,Nairobi_Main,CL560,Client_61,2023-06-23,386380.55,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01943,Kisumu,CL990,Client_1943,2022-01-17,652384.15,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00768,Kisumu,CL335,Client_768,2022-08-14,7229790.17,KES,Customer refused to provide source of funds documentation.
+TXN01200,Kisumu,CL447,Client_1200,2023-04-07,1404087.66,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02150,Kisumu,CL926,Client_2150,2024-09-25,171059.69,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01132,Mombasa,CL645,Client_1132,2024-07-08,2147314.78,KES,Large transfer to foreign account in Uganda without updated KYC.
+TXN02314,Mombasa,CL120,Client_2314,2024-10-04,765603.86,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00972,Westlands,CL423,Client_972,2024-10-03,795760.47,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02012,Nairobi_Main,CL780,Client_2012,2023-10-13,316821.14,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01920,Eldoret,CL855,Client_1920,2022-02-04,388301.2,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01317,Eldoret,CL976,Client_1317,2024-06-13,256381.14,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02020,Nairobi_Main,CL860,Client_2020,2024-03-08,481502.86,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02419,Nairobi_Main,CL973,Client_2419,2022-03-05,710331.57,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02591,Nairobi_Main,CL324,Client_2591,2024-08-17,1284919.58,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01545,Mombasa,CL369,Client_1545,2024-12-02,354495.72,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02492,Kisumu,CL330,Client_2492,2023-06-22,333430.78,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02505,Kisumu,CL995,Client_2505,2023-08-15,553138.96,KES,Third-party deposits followed by immediate outward remittances.
+TXN00509,Kisumu,CL939,Client_509,2023-06-24,1534429.89,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02467,Nairobi_Main,CL359,Client_2467,2022-08-29,316696.67,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00882,Nairobi_Main,CL855,Client_882,2022-04-19,910927.06,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN00467,Eldoret,CL259,Client_467,2022-06-22,2552924.26,KES,Dormant account reactivated with high-value transfers to Cyprus.
+TXN00464,Kisumu,CL861,Client_464,2022-06-13,1780815.42,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01868,Kisumu,CL819,Client_1868,2024-12-28,4049219.17,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00942,Kisumu,CL618,Client_942,2022-05-16,3221029.53,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00381,Mombasa,CL911,Client_381,2024-09-14,689864.4,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01560,Westlands,CL976,Client_1560,2024-08-19,446955.13,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02643,Westlands,CL784,Client_2643,2023-06-05,684969.41,KES,Dormant account reactivated with high-value transfers to Dubai.
+TXN01390,Kisumu,CL594,Client_1390,2023-08-25,745584.62,KES,Customer refused to provide source of funds documentation.
+TXN02501,Eldoret,CL719,Client_2501,2023-11-01,805669.67,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01211,Nairobi_Main,CL232,Client_1211,2024-05-06,226227.35,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02586,Mombasa,CL382,Client_2586,2024-03-18,836423.58,KES,Large transfer to foreign account in Dubai without updated KYC.
+TXN01129,Mombasa,CL964,Client_1129,2024-04-13,516640.81,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01833,Mombasa,CL202,Client_1833,2024-12-03,3463613.51,KES,Customer refused to provide source of funds documentation.
+TXN00391,Westlands,CL738,Client_391,2024-11-12,288113.49,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02771,Mombasa,CL453,Client_2771,2023-12-01,1220445.5,KES,Third-party deposits followed by immediate outward remittances.
+TXN00643,Nairobi_Main,CL941,Client_643,2024-11-23,1162830.62,KES,Customer refused to provide source of funds documentation.
+TXN02425,Mombasa,CL919,Client_2425,2023-02-24,185021.03,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02297,Eldoret,CL767,Client_2297,2024-07-15,724240.47,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01546,Westlands,CL749,Client_1546,2024-07-09,750235.16,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02435,Nairobi_Main,CL393,Client_2435,2024-01-16,632677.15,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02652,Kisumu,CL787,Client_2652,2023-06-11,5765229.56,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00382,Westlands,CL335,Client_382,2022-06-07,355196.04,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00870,Kisumu,CL605,Client_870,2022-08-25,2206996.67,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01303,Eldoret,CL386,Client_1303,2023-05-25,478077.52,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02465,Eldoret,CL983,Client_2465,2022-02-27,3211473.61,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01313,Kisumu,CL492,Client_1313,2023-07-29,1429943.2,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00318,Eldoret,CL988,Client_318,2023-04-05,1110987.61,KES,Customer refused to provide source of funds documentation.
+TXN00336,Eldoret,CL841,Client_336,2023-08-03,1286773.34,KES,Third-party deposits followed by immediate outward remittances.
+TXN02330,Eldoret,CL920,Client_2330,2023-05-01,3154031.08,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02179,Eldoret,CL544,Client_2179,2023-06-29,9076921.01,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN00525,Eldoret,CL772,Client_525,2023-05-25,739010.02,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN01625,Kisumu,CL891,Client_1625,2024-09-15,2005308.44,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02436,Kisumu,CL567,Client_2436,2024-08-25,1053286.43,KES,Third-party deposits followed by immediate outward remittances.
+TXN01005,Eldoret,CL365,Client_1005,2022-08-06,2753548.45,KES,Large transfer to foreign account in Dubai without updated KYC.
+TXN01187,Mombasa,CL424,Client_1187,2023-07-14,606682.79,KES,Large transfer to foreign account in Mauritius without updated KYC.
+TXN00192,Nairobi_Main,CL757,Client_192,2024-03-04,3174811.81,KES,Third-party deposits followed by immediate outward remittances.
+TXN00472,Westlands,CL705,Client_472,2024-07-24,107867.1,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01455,Westlands,CL844,Client_1455,2022-01-25,802796.67,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01248,Mombasa,CL794,Client_1248,2022-09-30,315217.68,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00057,Kisumu,CL330,Client_57,2023-08-15,300303.15,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02776,Eldoret,CL831,Client_2776,2022-03-22,442673.23,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02637,Kisumu,CL796,Client_2637,2024-10-31,617506.52,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01690,Mombasa,CL228,Client_1690,2024-04-05,450794.35,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02926,Mombasa,CL300,Client_2926,2022-10-15,644717.99,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01256,Westlands,CL384,Client_1256,2023-10-13,231712.18,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01996,Mombasa,CL772,Client_1996,2022-09-23,3848273.69,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN00432,Westlands,CL610,Client_432,2023-02-13,234378.13,KES,Customer refused to provide source of funds documentation.
+TXN00886,Kisumu,CL655,Client_886,2023-12-05,7740962.51,KES,Large transfer to foreign account in Uganda without updated KYC.
+TXN00564,Mombasa,CL336,Client_564,2024-02-19,1095343.77,KES,Third-party deposits followed by immediate outward remittances.
+TXN00373,Eldoret,CL775,Client_373,2022-10-27,1492257.34,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02822,Nairobi_Main,CL896,Client_2822,2023-11-23,976383.36,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00844,Nairobi_Main,CL713,Client_844,2022-12-09,706223.35,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00668,Westlands,CL277,Client_668,2022-06-09,5686432.83,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01293,Eldoret,CL211,Client_1293,2022-12-07,538073.45,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01548,Westlands,CL715,Client_1548,2024-02-13,667473.07,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01799,Eldoret,CL178,Client_1799,2024-01-12,1147624.83,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02681,Mombasa,CL195,Client_2681,2023-11-14,869262.08,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00360,Eldoret,CL171,Client_360,2023-02-01,302833.47,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00860,Kisumu,CL129,Client_860,2022-07-05,841593.39,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02155,Westlands,CL507,Client_2155,2024-11-12,472527.73,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01582,Westlands,CL803,Client_1582,2024-05-09,1207480.05,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01420,Nairobi_Main,CL286,Client_1420,2022-03-25,2319940.69,KES,Large transfer to foreign account in UK without updated KYC.
+TXN00285,Eldoret,CL841,Client_285,2023-04-04,2405151.28,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01593,Kisumu,CL502,Client_1593,2022-07-30,2175793.15,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN02498,Mombasa,CL714,Client_2498,2022-03-05,444261.17,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00455,Nairobi_Main,CL459,Client_455,2023-02-12,911428.24,KES,Dormant account reactivated with high-value transfers to UK.
+TXN00485,Kisumu,CL119,Client_485,2022-11-08,743619.18,KES,Large transfer to foreign account in Mauritius without updated KYC.
+TXN00913,Westlands,CL119,Client_913,2024-11-23,1838471.94,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01547,Westlands,CL863,Client_1547,2023-01-20,268640.73,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01612,Nairobi_Main,CL171,Client_1612,2024-08-20,180912.08,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02303,Kisumu,CL725,Client_2303,2024-12-22,1039682.42,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01978,Nairobi_Main,CL575,Client_1978,2023-07-31,3446169.27,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02241,Nairobi_Main,CL466,Client_2241,2022-05-01,1615742.25,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN00814,Kisumu,CL224,Client_814,2022-02-21,620070.43,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02353,Mombasa,CL256,Client_2353,2022-10-18,2717471.45,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN01497,Nairobi_Main,CL324,Client_1497,2024-03-14,9391853.47,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN00006,Kisumu,CL879,Client_6,2023-07-07,1189777.34,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01468,Westlands,CL538,Client_1468,2024-12-22,2095293.88,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN00605,Kisumu,CL847,Client_605,2024-07-02,721728.59,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00958,Westlands,CL528,Client_958,2023-01-05,743948.62,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01110,Kisumu,CL999,Client_1110,2024-06-03,8224501.28,KES,Third-party deposits followed by immediate outward remittances.
+TXN00214,Eldoret,CL761,Client_214,2022-07-02,2639901.4,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02972,Nairobi_Main,CL160,Client_2972,2024-02-12,1380876.99,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN01786,Eldoret,CL179,Client_1786,2023-05-01,395617.71,KES,Third-party deposits followed by immediate outward remittances.
+TXN02831,Mombasa,CL534,Client_2831,2022-10-20,163945.59,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01907,Eldoret,CL545,Client_1907,2023-12-15,179941.43,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00219,Nairobi_Main,CL567,Client_219,2022-04-14,384710.17,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00983,Mombasa,CL950,Client_983,2024-09-09,615211.55,KES,Dormant account reactivated with high-value transfers to Dubai.
+TXN01298,Kisumu,CL597,Client_1298,2024-08-27,441003.38,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01619,Eldoret,CL105,Client_1619,2022-04-18,400933.03,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00610,Eldoret,CL384,Client_610,2023-03-02,1539904.59,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02629,Mombasa,CL902,Client_2629,2023-10-25,396277.18,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02680,Kisumu,CL202,Client_2680,2024-04-06,449362.98,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01054,Westlands,CL408,Client_1054,2022-06-22,648535.25,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02518,Nairobi_Main,CL587,Client_2518,2024-06-14,114289.47,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01032,Eldoret,CL332,Client_1032,2022-09-05,327182.81,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01735,Kisumu,CL176,Client_1735,2024-12-30,3017525.59,KES,Dormant account reactivated with high-value transfers to Uganda.
+TXN01505,Nairobi_Main,CL683,Client_1505,2022-04-02,479678.21,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02253,Nairobi_Main,CL831,Client_2253,2023-02-21,397894.38,KES,Customer refused to provide source of funds documentation.
+TXN00981,Kisumu,CL797,Client_981,2022-09-07,936645.46,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01006,Mombasa,CL219,Client_1006,2022-01-28,2093058.28,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01982,Nairobi_Main,CL557,Client_1982,2023-10-27,205719.17,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02868,Westlands,CL151,Client_2868,2024-01-25,290489.69,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN01806,Eldoret,CL828,Client_1806,2024-08-20,178278.97,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02970,Westlands,CL956,Client_2970,2022-05-09,652809.18,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02563,Mombasa,CL762,Client_2563,2024-11-30,282717.31,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00671,Mombasa,CL435,Client_671,2024-10-09,1292720.71,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01394,Kisumu,CL209,Client_1394,2022-01-11,594558.7,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02489,Eldoret,CL748,Client_2489,2022-05-26,550054.09,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02561,Nairobi_Main,CL486,Client_2561,2022-10-06,589773.38,KES,Dormant account reactivated with high-value transfers to Tanzania.
+TXN01888,Eldoret,CL832,Client_1888,2024-08-28,727117.04,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00923,Eldoret,CL280,Client_923,2022-03-28,1655597.79,KES,Large transfer to foreign account in Dubai without updated KYC.
+TXN00151,Kisumu,CL492,Client_151,2022-10-09,1840308.11,KES,Customer refused to provide source of funds documentation.
+TXN00437,Kisumu,CL602,Client_437,2023-01-10,6361367.9,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN01863,Eldoret,CL719,Client_1863,2022-11-07,941700.07,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00966,Kisumu,CL235,Client_966,2022-03-26,5368749.08,KES,Dormant account reactivated with high-value transfers to Mauritius.
+TXN00743,Nairobi_Main,CL853,Client_743,2022-10-17,348930.14,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01370,Westlands,CL639,Client_1370,2023-09-20,290871.86,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02116,Eldoret,CL692,Client_2116,2024-11-23,377282.87,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00070,Nairobi_Main,CL748,Client_70,2022-07-10,821914.97,KES,Dormant account reactivated with high-value transfers to UK.
+TXN01252,Eldoret,CL877,Client_1252,2022-09-12,968467.57,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02846,Mombasa,CL513,Client_2846,2022-04-23,250668.9,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02266,Nairobi_Main,CL504,Client_2266,2023-02-18,1245135.93,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00890,Mombasa,CL237,Client_890,2023-10-02,3984144.72,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN01055,Kisumu,CL499,Client_1055,2022-09-16,367613.13,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02039,Mombasa,CL830,Client_2039,2024-06-19,530777.39,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02994,Eldoret,CL278,Client_2994,2024-06-20,1213491.05,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01875,Mombasa,CL358,Client_1875,2024-04-23,4776783.03,KES,Third-party deposits followed by immediate outward remittances.
+TXN00739,Nairobi_Main,CL911,Client_739,2023-09-23,1733810.44,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00510,Eldoret,CL488,Client_510,2023-01-15,302046.1,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02053,Westlands,CL333,Client_2053,2024-07-23,812356.99,KES,Large transfer to foreign account in China without updated KYC.
+TXN01694,Nairobi_Main,CL858,Client_1694,2024-11-12,437406.52,KES,Customer refused to provide source of funds documentation.
+TXN00968,Nairobi_Main,CL424,Client_968,2024-12-22,1906268.65,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01518,Nairobi_Main,CL610,Client_1518,2022-07-12,840345.32,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02902,Nairobi_Main,CL502,Client_2902,2024-01-20,1002680.33,KES,Third-party deposits followed by immediate outward remittances.
+TXN00767,Mombasa,CL706,Client_767,2023-10-30,527291.11,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00896,Nairobi_Main,CL538,Client_896,2023-12-08,850940.02,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02236,Kisumu,CL210,Client_2236,2023-12-16,901247.22,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN01726,Westlands,CL105,Client_1726,2024-01-07,3903499.06,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02058,Westlands,CL589,Client_2058,2022-08-27,996567.77,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN02836,Nairobi_Main,CL154,Client_2836,2022-07-29,438060.92,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01177,Eldoret,CL166,Client_1177,2022-12-09,320084.04,KES,Third-party deposits followed by immediate outward remittances.
+TXN00960,Mombasa,CL354,Client_960,2024-01-28,739253.37,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00470,Kisumu,CL981,Client_470,2023-10-29,361106.15,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00374,Nairobi_Main,CL324,Client_374,2024-09-25,3482788.22,KES,Multiple cash deposits just below reporting threshold over 3 days.
+TXN02983,Mombasa,CL279,Client_2983,2022-05-10,2839796.33,KES,Customer refused to provide source of funds documentation.
+TXN00106,Mombasa,CL455,Client_106,2024-12-07,2113055.94,KES,Rapid withdrawals inconsistent with customer profile; STR recommended.
+TXN01891,Eldoret,CL569,Client_1891,2023-11-09,2401624.22,KES,Large transfer to foreign account in Tanzania without updated KYC.
+TXN02124,Westlands,CL281,Client_2124,2022-01-19,449538.34,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02594,Eldoret,CL259,Client_2594,2024-12-01,562764.16,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00747,Nairobi_Main,CL609,Client_747,2023-03-28,615836.47,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00235,Kisumu,CL528,Client_235,2024-04-08,2423590.95,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01141,Mombasa,CL420,Client_1141,2022-05-14,438758.99,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01489,Mombasa,CL253,Client_1489,2023-01-09,185728.38,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01675,Nairobi_Main,CL151,Client_1675,2023-05-30,1674061.02,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02862,Nairobi_Main,CL106,Client_2862,2024-11-18,2270450.86,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00216,Eldoret,CL910,Client_216,2022-11-22,919217.88,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN02394,Eldoret,CL267,Client_2394,2023-04-27,818295.22,KES,Third-party deposits followed by immediate outward remittances.
+TXN01626,Kisumu,CL884,Client_1626,2023-08-30,3882707.43,KES,Third-party deposits followed by immediate outward remittances.
+TXN00653,Nairobi_Main,CL582,Client_653,2022-04-14,447654.91,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02864,Westlands,CL176,Client_2864,2022-06-16,2712072.23,KES,Third-party deposits followed by immediate outward remittances.
+TXN01120,Eldoret,CL740,Client_1120,2023-09-13,1127437.68,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02031,Nairobi_Main,CL249,Client_2031,2023-06-22,950730.41,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01477,Mombasa,CL528,Client_1477,2024-10-15,496498.78,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00603,Eldoret,CL992,Client_603,2022-11-04,993236.56,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01805,Mombasa,CL115,Client_1805,2022-12-08,289866.08,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN00967,Eldoret,CL604,Client_967,2023-11-26,336557.87,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN02588,Eldoret,CL298,Client_2588,2024-05-05,468791.58,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00851,Kisumu,CL419,Client_851,2024-01-13,349340.24,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN01031,Nairobi_Main,CL926,Client_1031,2022-05-11,1165150.84,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN02815,Eldoret,CL399,Client_2815,2023-04-08,7643004.47,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN02432,Westlands,CL921,Client_2432,2023-07-02,264668.92,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00837,Nairobi_Main,CL713,Client_837,2024-01-11,5929499.96,KES,Round-dollar transfers to high-risk jurisdiction; purpose unclear.
+TXN01697,Nairobi_Main,CL168,Client_1697,2022-01-01,268275.06,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN00918,Kisumu,CL761,Client_918,2022-11-25,1737483.24,KES,Customer refused to provide source of funds documentation.
+TXN02982,Eldoret,CL989,Client_2982,2023-01-08,1316710.91,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN00224,Mombasa,CL150,Client_224,2022-11-30,174747.77,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN01732,Nairobi_Main,CL610,Client_1732,2023-04-18,423148.41,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02918,Westlands,CL427,Client_2918,2024-11-23,862903.69,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN00998,Mombasa,CL402,Client_998,2022-04-08,846266.84,KES,Salary deposit verified with updated KYC; payslips on file.
+TXN01927,Nairobi_Main,CL192,Client_1927,2023-01-09,91931.47,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00030,Eldoret,CL864,Client_30,2024-11-28,1129714.64,KES,Frequent transfers to M-Pesa agents; smurfing suspected.
+TXN02284,Eldoret,CL760,Client_2284,2024-03-01,271898.5,KES,FX purchase supported by trade documents and tax compliance certificate.
+TXN02780,Kisumu,CL954,Client_2780,2024-12-18,2261406.15,KES,Large transfer to foreign account in China without updated KYC.
+TXN00948,Eldoret,CL946,Client_948,2023-11-02,332922.28,KES,Domestic transfer to supplier with matching invoice and contract.
+TXN00423,Nairobi_Main,CL672,Client_423,2022-05-29,453942.17,KES,Customer activity consistent with historical pattern over last 12 months.
+TXN00146,Westlands,CL687,Client_146,2024-06-06,934041.37,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02528,Mombasa,CL227,Client_2528,2022-07-15,826367.95,KES,Incoming payment from verified business partner; documentation reviewed.
+TXN02321,Kisumu,CL559,Client_2321,2024-06-05,2181560.73,KES,Large transfer to foreign account in China without updated KYC.
+TXN00321,Westlands,CL735,Client_321,2024-06-26,578328.41,KES,Customer activity consistent with historical pattern over last 12 months.
