@@ -1,0 +1,751 @@
+transaction_id,branch,client_id,client_type,transaction_date,amount,currency,narrative
+TXN003881,Eldoret,CL955,Corporate,2023-05-25,675275.0448455604,KES,"Routine payment for rent at Nakuru; invoice checked. Approx amount KES 675,275. #1caa7e"
+TXN000315,Kisumu,CL478,Retail,2022-03-29,2020596.7720813763,KES,Irregular pattern detected; structuring suspected; escalate to compliance team. #577fe2
+TXN003516,Mombasa,CL553,Corporate,2022-02-23,342186.1110686582,KES,"342,186. KES amount Approx checked. invoice Mombasa; at salary for payment Routine #1c4337"
+TXN003147,Kisumu,CL140,Retail,2022-05-20,1044494.4247483768,KES,team. compliance to escalate transactions; with inconsistent profile activity; outgoing Unusual #cd9c41
+TXN001822,Eldoret,CL663,Corporate,2024-01-09,510221.8003140416,KES,Routine payment for school fees at Nakuru; invoice checked. #16ccb7
+TXN000986,Mombasa,CL864,SME,2024-01-16,1710641.169690682,KES,"1,710,641. KES amount Approx reviewed. statements Thika; at payment bill or salary Processed #0fa1c9"
+TXN000065,Eldoret,CL881,Corporate,2024-02-12,1543198.8880104795,KES,Routine payment for rent at Thika; statements reviewed. #e97889
+TXN001905,Nairobi_Main,CL836,SME,2022-02-27,817006.1064646903,KES,Processed salary or bill payment at Kisumu; statements reviewed. #f69dc9
+TXN001828,Kisumu,CL679,SME,2023-04-30,557372.0824121678,KES,verified. ID Nakuru; at repayment loan for payment Routine #4ac0ca
+TXN003921,Eldoret,CL213,Corporate,2024-04-17,698691.3198482086,KES,Customer activity aligned with historical patterns; statements reviewed. #455f61
+TXN003911,Eldoret,CL255,Corporate,2024-10-25,695908.753680056,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 695,909. #be827e"
+TXN002348,Mombasa,CL659,SME,2022-06-28,3701064.43258113,KES,"Large foreign remittance to Cyprus; no valid KYC; STR recommended. Approx amount KES 3,701,064. #181c08"
+TXN001521,Mombasa,CL260,SME,2023-07-09,897589.748279435,KES,reviewed. statements patterns; historical with aligned activity Customer #58f15f
+TXN001558,Eldoret,CL416,Retail,2022-10-23,7598183.108945075,KES,triggered. EDD transactions; with inconsistent profile detected; pattern Irregular #c79a4d
+TXN003241,Mombasa,CL784,Retail,2023-01-15,4447630.938304837,KES,Routine payment for salary at Nakuru; ID verified. #6cd8bb
+TXN004375,Eldoret,CL567,Retail,2022-06-12,938655.987881159,KES,reviewed. statements Thika; at processed rent for Transaction #79f792
+TXN004716,Westlands,CL231,Retail,2023-10-07,17013790.747214,KES,"17,013,791. KES amount Approx recommended. STR transactions; with inconsistent profile detected; pattern Irregular #c9061d"
+TXN001082,Nairobi_Main,CL359,Corporate,2022-08-29,476801.46349910606,KES,Transaction for loan repayment processed at Nakuru; ID verified. #98d4da
+TXN002387,Mombasa,CL469,Corporate,2023-02-21,312711.650032581,KES,"Processed salary or bill payment at Thika; statements reviewed. Approx amount KES 312,712. #55d1a3"
+TXN002642,Nairobi_Main,CL902,Retail,2024-01-09,924611.9955668997,KES,"High-value transfer to UK; structuring suspected; STR recommended. Approx amount KES 924,612. #492109"
+TXN003378,Kisumu,CL201,Retail,2024-03-28,851007.2163945159,KES,verified. ID Thika; at utilities for payment Routine #ed2b64
+TXN002345,Westlands,CL916,Corporate,2022-07-01,1287234.7852058064,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 1,287,235. #5b3274"
+TXN002227,Nairobi_Main,CL242,Retail,2023-04-19,1155009.1117121307,KES,High-value transfer to China; third-party deposits observed; STR recommended. #722c4f
+TXN003465,Nairobi_Main,CL908,Corporate,2023-09-02,234284.66985211664,KES,verified. ID Mombasa; at payment bill or salary Processed #1ff3a2
+TXN000859,Westlands,CL951,Corporate,2023-10-02,3504781.1459725723,KES,Unusual outgoing activity; no valid KYC; escalate to compliance team. #6d36f3
+TXN004679,Kisumu,CL950,SME,2022-09-08,2485998.5888510863,KES,"2,485,999. KES amount Approx triggered. EDD KYC; valid no Mauritius; to transfer High-value #ae05c7"
+TXN004985,Nairobi_Main,CL744,Retail,2022-12-07,1876761.915260496,KES,Transaction for school fees processed at Mombasa; ID verified. #995b8b
+TXN000740,Kisumu,CL908,SME,2024-08-27,378213.1451726778,KES,"Irregular pattern detected; structuring suspected; escalate to compliance team. Approx amount KES 378,213. #6a405d"
+TXN003712,Eldoret,CL816,Corporate,2024-01-18,727017.9707036341,KES,checked. invoice patterns; historical with aligned activity Customer #313d7b
+TXN001095,Mombasa,CL450,Corporate,2024-11-24,564388.6528312962,KES,Processed salary or bill payment at Thika; statements reviewed. #f64ff3
+TXN004078,Mombasa,CL474,SME,2024-10-03,1397908.509140683,KES,team. compliance to escalate transactions; with inconsistent profile detected; pattern Irregular #e26ec7
+TXN001050,Eldoret,CL304,Corporate,2023-01-21,385426.6220316834,KES,Routine payment for rent at Thika; invoice checked. #9f11b7
+TXN002146,Westlands,CL299,Retail,2024-11-03,194729.60126557728,KES,Processed salary or bill payment at Thika; ID verified. #0c6fe8
+TXN001464,Mombasa,CL616,Corporate,2024-03-22,1175881.8035166054,KES,"1,175,882. KES amount Approx triggered. EDD transactions; with inconsistent profile Kong; Hong to remittance foreign Large #a86f4a"
+TXN003972,Eldoret,CL310,Retail,2023-12-06,2710938.525904828,KES,triggered. EDD suspected; structuring detected; pattern Irregular #832a02
+TXN000159,Mombasa,CL729,Retail,2023-05-08,945611.9150224891,KES,"945,612. KES amount Approx checked. invoice patterns; historical with aligned activity Customer #97a53e"
+TXN001641,Kisumu,CL973,Retail,2022-08-21,7067366.646890503,KES,"7,067,367. KES amount Approx recommended. STR suspected; structuring detected; pattern Irregular #1f803e"
+TXN004122,Kisumu,CL967,Corporate,2023-04-02,4695017.758406819,KES,recommended. STR KYC; valid no Cyprus; to remittance foreign Large #b1d94a
+TXN001600,Kisumu,CL418,Retail,2023-07-26,525430.1246689322,KES,Processed salary or bill payment at Nairobi; invoice checked. #b5fd64
+TXN004685,Eldoret,CL912,Corporate,2024-05-22,951465.069938782,KES,"Processed salary or bill payment at Nakuru; statements reviewed. Approx amount KES 951,465. #a192e6"
+TXN001001,Mombasa,CL486,Retail,2024-10-01,1140803.7069178591,KES,"Processed salary or bill payment at Mombasa; invoice checked. Approx amount KES 1,140,804. #c98fa7"
+TXN001850,Nairobi_Main,CL566,Retail,2024-03-09,379891.4690361692,KES,Processed salary or bill payment at Kisumu; invoice checked. #211783
+TXN000151,Kisumu,CL769,SME,2023-04-29,761095.2145169014,KES,Transaction for rent processed at Nakuru; ID verified. #6d32da
+TXN002187,Mombasa,CL592,SME,2022-03-14,495510.2751828751,KES,Routine payment for salary at Kisumu; invoice checked. #baa135
+TXN004506,Westlands,CL828,Retail,2023-08-11,3691064.354981293,KES,Irregular pattern detected; structuring suspected; escalate to compliance team. #10c961
+TXN001192,Mombasa,CL676,Retail,2023-04-28,1154028.151473727,KES,triggered. EDD observed; deposits third-party Kong; Hong to remittance foreign Large #5b6335
+TXN002279,Kisumu,CL694,SME,2022-04-15,825557.2608579303,KES,reviewed. statements Nakuru; at rent for payment Routine #afdd53
+TXN000707,Nairobi_Main,CL822,Corporate,2023-06-25,2039786.9567252055,KES,verified. ID Mombasa; at salary for payment Routine #00faa0
+TXN004116,Westlands,CL369,SME,2023-12-23,1593703.525442843,KES,"Unusual outgoing activity; no valid KYC; EDD triggered. Approx amount KES 1,593,704. #53c8e1"
+TXN002478,Mombasa,CL733,Retail,2022-06-02,594368.502308571,KES,High-value transfer to Mauritius; profile inconsistent with transactions; escalate to compliance team. #86130d
+TXN001317,Kisumu,CL647,SME,2024-12-26,482310.1770688714,KES,reviewed. statements patterns; historical with aligned activity Customer #fdda53
+TXN004756,Eldoret,CL625,Corporate,2023-10-06,515281.23570395546,KES,"Large foreign remittance to China; third-party deposits observed; STR recommended. Approx amount KES 515,281. #026894"
+TXN000125,Westlands,CL911,Retail,2023-04-30,2767123.630379192,KES,Routine payment for rent at Mombasa; statements reviewed. #512dd2
+TXN001713,Westlands,CL893,Retail,2023-10-08,1080781.7436882348,KES,Routine payment for loan repayment at Thika; ID verified. #d6d8c5
+TXN000312,Nairobi_Main,CL844,Retail,2022-02-08,1064261.2391791984,KES,checked. invoice patterns; historical with aligned activity Customer #c32fd9
+TXN001637,Westlands,CL564,Retail,2023-09-15,2902953.308602883,KES,"High-value transfer to Mauritius; third-party deposits observed; STR recommended. Approx amount KES 2,902,953. #611575"
+TXN002049,Westlands,CL320,Corporate,2023-02-25,665726.0168049652,KES,Processed salary or bill payment at Kisumu; statements reviewed. #b29bd0
+TXN001373,Nairobi_Main,CL257,SME,2024-04-05,193011.88021028813,KES,"Processed salary or bill payment at Kisumu; statements reviewed. Approx amount KES 193,012. #61c2df"
+TXN000036,Westlands,CL861,SME,2024-07-10,2392805.86046826,KES,Unusual outgoing activity; profile inconsistent with transactions; EDD triggered. #88e463
+TXN002634,Kisumu,CL943,SME,2022-05-02,1962971.9075997928,KES,Processed salary or bill payment at Nairobi; statements reviewed. #85f5bb
+TXN002869,Mombasa,CL125,Retail,2023-12-07,1411673.378228974,KES,"Processed salary or bill payment at Nakuru; statements reviewed. Approx amount KES 1,411,673. #2421b9"
+TXN004837,Mombasa,CL585,Corporate,2023-07-31,1001601.9917138204,KES,Irregular pattern detected; no valid KYC; STR recommended. #83389d
+TXN003848,Kisumu,CL255,Retail,2022-02-13,1732460.746815552,KES,Unusual outgoing activity; structuring suspected; STR recommended. #ac5c22
+TXN003951,Nairobi_Main,CL988,SME,2024-01-15,333034.9548508584,KES,Routine payment for utilities at Nakuru; ID verified. #5a54c6
+TXN002060,Westlands,CL131,Retail,2024-08-06,4264383.440909454,KES,"4,264,383. KES amount Approx triggered. EDD transactions; with inconsistent profile detected; pattern Irregular #8916e5"
+TXN001184,Westlands,CL155,Retail,2024-12-28,298719.50580557296,KES,"Transaction for school fees processed at Nakuru; invoice checked. Approx amount KES 298,720. #264439"
+TXN004096,Eldoret,CL654,Corporate,2022-03-01,3388648.773044113,KES,"Irregular pattern detected; no valid KYC; escalate to compliance team. Approx amount KES 3,388,649. #ec8035"
+TXN002413,Nairobi_Main,CL865,SME,2023-03-02,868260.8449277201,KES,High-value transfer to China; no valid KYC; STR recommended. #e31b1a
+TXN001496,Eldoret,CL885,Corporate,2022-05-08,12677676.121128518,KES,triggered. EDD KYC; valid no detected; pattern Irregular #59167d
+TXN002814,Nairobi_Main,CL158,Corporate,2023-09-27,2153898.3201094195,KES,Customer activity aligned with historical patterns; ID verified. #e70deb
+TXN002856,Eldoret,CL993,Corporate,2024-07-05,361297.4200890954,KES,Customer activity aligned with historical patterns; ID verified. #3e8a18
+TXN002632,Nairobi_Main,CL887,Corporate,2023-09-28,685637.6676766758,KES,Customer activity aligned with historical patterns; ID verified. #f36798
+TXN000969,Kisumu,CL100,Retail,2023-05-30,219357.3531570568,KES,"Routine payment for salary at Nakuru; invoice checked. Approx amount KES 219,357. #7453e0"
+TXN003366,Nairobi_Main,CL729,Corporate,2024-08-05,1235156.5630309165,KES,Irregular pattern detected; no valid KYC; escalate to compliance team. #ee392f
+TXN002511,Nairobi_Main,CL483,Retail,2022-11-18,875968.4542715506,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 875,968. #5125f1"
+TXN004821,Eldoret,CL546,Corporate,2022-03-16,525078.090744966,KES,Customer activity aligned with historical patterns; statements reviewed. #ee1af4
+TXN003352,Nairobi_Main,CL354,Corporate,2022-06-30,2915305.057217551,KES,High-value tranfer to Cyprus; structuring suspected; EDD triggered. #0da746
+TXN002313,Eldoret,CL630,Corporate,2024-07-20,846123.1220725483,KES,reviewed. statements Mombasa; at rent for payment Routine #d18f08
+TXN004021,Eldoret,CL460,Retail,2023-09-24,550556.9200510867,KES,Unusual outgoing activity; third-party deposits observed; STR recommended. #c2d1e5
+TXN004534,Kisumu,CL197,Corporate,2023-09-14,1004219.55892568,KES,Processed salary or bill payment at Mombasa; invoice checked. #9e470c
+TXN003984,Westlands,CL938,Retail,2022-11-29,2467198.3950476954,KES,triggered. EDD transactions; with inconsistent profile Cyprus; to remittance foreign Large #8b2bad
+TXN004190,Westlands,CL243,Corporate,2024-11-10,2831221.9583779736,KES,"Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 2,831,222. #c39751"
+TXN003344,Nairobi_Main,CL514,SME,2024-06-06,303976.66025819286,KES,"Routine payment for school fees at Thika; ID verified. Approx amount KES 303,977. #5b6014"
+TXN002165,Kisumu,CL559,SME,2022-12-02,293441.6425849572,KES,Transaction for loan repayment processed at Kisumu; ID verified. #0a388b
+TXN004594,Mombasa,CL187,SME,2022-12-29,1968334.1198872365,KES,Large foreign remittance to China; structuring suspected; escalate to compliance team. #60f019
+TXN002101,Westlands,CL212,Corporate,2024-01-18,317605.0510218176,KES,Processed salary or bill payment at Nakuru; statements reviewed. #f8afdb
+TXN001574,Kisumu,CL622,SME,2023-07-08,827778.5845998821,KES,Customer activity aligned with historical patterns; statements reviewed. #4b3d3e
+TXN002194,Kisumu,CL354,Corporate,2023-03-27,682006.3975321501,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 682,006. #062a7d"
+TXN004117,Eldoret,CL744,Corporate,2024-10-26,159053.01927395666,KES,Transaction for salary processed at Nakuru; ID verified. #8242ef
+TXN000283,Westlands,CL438,SME,2022-04-14,650805.4646140554,KES,High-value tranfer to Dubai; structuring suspected; escalate to compliance team. #317af7
+TXN003546,Nairobi_Main,CL463,SME,2023-01-01,3679764.1421093135,KES,"High-value transfer to China; structuring suspected; escalate to compliance team. Approx amount KES 3,679,764. #c0b0db"
+TXN000940,Mombasa,CL147,Corporate,2024-03-09,626388.4853313019,KES,"626,388. KES amount Approx triggered. EDD observed; deposits third-party detected; pattern Irregular #2c0d55"
+TXN002095,Eldoret,CL475,SME,2023-12-17,1852065.6507296208,KES,"1,852,066. KES amount Approx team. compliance to escalate transactions; with inconsistent profile activity; outgoing Unusual #dcf4a1"
+TXN003417,Mombasa,CL525,Corporate,2024-05-10,690700.6216788058,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 690,701. #3546d4"
+TXN000137,Kisumu,CL923,SME,2024-11-29,476659.14735127735,KES,"Routine payment for loan repayment at Kisumu; ID verified. Approx amount KES 476,659. #ffb520"
+TXN000643,Mombasa,CL300,Retail,2023-01-24,208522.021389183,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 208,522. #8e34e5"
+TXN004280,Mombasa,CL738,Retail,2023-02-24,2585006.4279266237,KES,"2,585,006. KES amount Approx reviewed. statements Nairobi; at fees school for payment Routine #de253a"
+TXN000148,Eldoret,CL717,Retail,2023-11-18,860577.6217177497,KES,Transaction for utilities processed at Nakuru; ID verified. #529fc9
+TXN004319,Nairobi_Main,CL410,Corporate,2022-07-28,471848.4757551141,KES,Processed salary or bill payment at Nairobi; ID verified. #87b3e6
+TXN001113,Eldoret,CL227,SME,2024-01-26,844903.1814261508,KES,verified. ID patterns; historical with aligned activity Customer #f51897
+TXN002872,Eldoret,CL642,Retail,2022-06-25,138563.09867718618,KES,"Routine payment for salary at Thika; invoice checked. Approx amount KES 138,563. #b76249"
+TXN002509,Nairobi_Main,CL408,Corporate,2022-09-12,603069.5680352618,KES,"High-value transfer to UK; structuring suspected; escalate to compliance team. Approx amount KES 603,070. #1ef8ed"
+TXN002167,Westlands,CL246,Corporate,2022-02-02,247631.1200678044,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 247,631. #b45751"
+TXN001571,Mombasa,CL910,Corporate,2024-05-12,641227.4564064357,KES,"Unusual outgoing activity; third-party deposits observed; escalate to compliance team. Approx amount KES 641,227. #14ad1b"
+TXN004349,Eldoret,CL291,Retail,2024-07-18,403312.6574677105,KES,"Transaction for rent processed at Nairobi; invoice checked. Approx amount KES 403,313. #f24e2e"
+TXN003173,Mombasa,CL114,Retail,2024-07-25,1028096.4460285524,KES,"Transaction for salary processed at Kisumu; invoice checked. Approx amount KES 1,028,096. #00f105"
+TXN003856,Mombasa,CL776,Corporate,2024-09-01,224795.765136904,KES,"224,796. KES amount Approx checked. invoice patterns; historical with aligned activity Customer #298cb0"
+TXN000531,Nairobi_Main,CL197,Corporate,2022-05-01,444467.37935173657,KES,"444,467. KES amount Approx team. compliance to escalate transactions; with inconsistent profile activity; outgoing Unusual #ae9ec5"
+TXN002741,Westlands,CL131,Retail,2022-11-10,825960.2857014838,KES,verified. ID Mombasa; at processed salary for Transaction #8c4205
+TXN000328,Eldoret,CL813,Corporate,2022-04-17,924384.9458564352,KES,reviewed. statements Nakuru; at processed fees school for Transaction #ecb38b
+TXN000216,Kisumu,CL270,SME,2022-09-17,347674.6298921243,KES,"347,675. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #02ffa1"
+TXN002518,Eldoret,CL581,Corporate,2022-03-20,508459.2016951486,KES,Transaction for school fees processed at Mombasa; statements reviewed. #f39fc6
+TXN001694,Westlands,CL328,SME,2024-01-16,652434.2884050807,KES,reviewed. statements patterns; historical with aligned activity Customer #6bae67
+TXN001164,Westlands,CL690,Retail,2022-09-03,1221755.4823397335,KES,reviewed. statements Kisumu; at processed utilities for Transaction #81abb5
+TXN002560,Westlands,CL805,Corporate,2023-05-05,293687.8752007206,KES,Routine payment for utilities at Thika; ID verified. #4ba8c5
+TXN001546,Mombasa,CL519,Retail,2023-12-04,296893.92305846536,KES,Customer activity aligned with historical patterns; ID verified. #b801cc
+TXN003939,Nairobi_Main,CL978,Corporate,2022-04-07,347737.05214709,KES,Transaction for rent processed at Kisumu; statements reviewed. #d87d7e
+TXN002892,Westlands,CL593,Corporate,2024-03-15,1022483.5222826157,KES,Customer activity aligned with historical patterns; statements reviewed. #dd08c9
+TXN000599,Eldoret,CL362,SME,2024-05-12,777711.0593213252,KES,Transaction for salary processed at Nairobi; statements reviewed. #13f19b
+TXN001823,Mombasa,CL479,SME,2022-05-16,1104604.2425665008,KES,triggered. EDD transactions; with inconsistent profile activity; outgoing Unusual #249d0d
+TXN000461,Westlands,CL321,Corporate,2024-07-20,2046695.6994928352,KES,"2,046,696. KES amount Approx recommended. STR observed; deposits third-party detected; pattern Irregular #bb4e2f"
+TXN001545,Eldoret,CL143,Corporate,2022-10-02,3023412.8391093463,KES,"Unusual outgoing activity; structuring suspected; EDD triggered. Approx amount KES 3,023,413. #c06b15"
+TXN003177,Nairobi_Main,CL453,Corporate,2023-07-03,420423.7865665357,KES,checked. invoice patterns; historical with aligned activity Customer #93e57e
+TXN004369,Westlands,CL484,Retail,2023-04-15,698220.046650877,KES,"698,220. KES amount Approx reviewed. statements Nakuru; at payment bill or salary Processed #761f3e"
+TXN001035,Nairobi_Main,CL496,SME,2024-12-20,1797290.3621176376,KES,verified. ID patterns; historical with aligned activity Customer #c4a36e
+TXN000625,Nairobi_Main,CL345,Retail,2023-07-15,417545.5948359956,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 417,546. #364573"
+TXN001793,Kisumu,CL933,Retail,2022-05-16,3628050.714672649,KES,Unusual outgoing activity; profile inconsistent with transactions; STR recommended. #a5a313
+TXN003749,Westlands,CL128,Corporate,2022-11-20,526118.1473134512,KES,recommended. STR transactions; with inconsistent profile detected; pattern Irregular #4a5ae8
+TXN003609,Eldoret,CL954,Retail,2022-08-03,446569.51794558886,KES,Transaction for school fees processed at Nairobi; ID verified. #e791b8
+TXN001020,Eldoret,CL522,Retail,2023-02-13,861116.2929760835,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 861,116. #e21888"
+TXN001835,Westlands,CL458,Corporate,2022-02-26,769158.5988838427,KES,"769,159. KES amount Approx verified. ID Thika; at processed utilities for Transaction #c5a666"
+TXN003049,Mombasa,CL893,SME,2022-01-26,1380660.887597585,KES,"1,380,661. KES amount Approx verified. ID Nakuru; at processed rent for Transaction #6cd572"
+TXN000320,Westlands,CL629,SME,2022-02-08,2163626.633028489,KES,recommended. STR suspected; structuring detected; pattern Irregular #752224
+TXN000781,Kisumu,CL973,Corporate,2023-05-04,234511.2755081532,KES,checked. invoice Thika; at rent for payment Routine #a887f3
+TXN003189,Nairobi_Main,CL555,Retail,2023-12-07,2149474.907491316,KES,verified. ID Kisumu; at processed repayment loan for Transaction #6f9154
+TXN002304,Nairobi_Main,CL919,SME,2024-12-02,2414414.1867012912,KES,"Transaction for utilities processed at Nairobi; statements reviewed. Approx amount KES 2,414,414. #74153e"
+TXN001252,Kisumu,CL291,Corporate,2023-11-23,147913.81472715948,KES,Customer activity aligned with historical patterns; statements reviewed. #d315ed
+TXN001451,Mombasa,CL551,Retail,2022-08-14,9175004.571599092,KES,Irregular pattern detected; structuring suspected; STR recommended. #740ff6
+TXN000592,Mombasa,CL964,SME,2023-07-16,835082.564029877,KES,Routine payment for loan repayment at Nakuru; ID verified. #a255de
+TXN000711,Mombasa,CL202,Corporate,2024-12-14,1817474.029795068,KES,team. compliance to escalate observed; deposits third-party detected; pattern Irregular #da3ce9
+TXN001170,Westlands,CL664,Corporate,2022-10-24,1015863.9725287076,KES,"Processed salary or bill payment at Mombasa; invoice checked. Approx amount KES 1,015,864. #9929a4"
+TXN003576,Nairobi_Main,CL411,Corporate,2024-10-03,937751.787644712,KES,"937,752. KES amount Approx triggered. EDD transactions; with inconsistent profile detected; pattern Irregular #ab6ac1"
+TXN002419,Nairobi_Main,CL504,Retail,2023-10-25,600894.7566884573,KES,"Unusual outgoing activity; structuring suspected; EDD triggered. Approx amount KES 600,895. #3f3154"
+TXN004310,Kisumu,CL887,SME,2024-09-14,616030.1328360641,KES,Customer activity aligned with historical patterns; invoice checked. #93095c
+TXN004215,Westlands,CL913,Corporate,2022-04-09,3277209.2536484897,KES,"Large foreign remittance to Hong Kong; no valid KYC; EDD triggered. Approx amount KES 3,277,209. #dcd165"
+TXN004964,Westlands,CL402,Retail,2023-02-17,377384.0304532387,KES,"Routine payment for rent at Kisumu; invoice checked. Approx amount KES 377,384. #46bc1e"
+TXN000176,Westlands,CL909,Corporate,2022-06-10,602655.6940437172,KES,Routine payment for school fees at Thika; ID verified. #a98690
+TXN002105,Kisumu,CL632,Retail,2023-02-06,1885815.794141748,KES,Customer activity aligned with historical patterns; statements reviewed. #d2be19
+TXN000374,Eldoret,CL757,SME,2022-03-18,2695859.7287304075,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 2,695,860. #76f021"
+TXN000476,Kisumu,CL688,Retail,2024-06-21,894115.1724832469,KES,Routine payment for school fees at Mombasa; statements reviewed. #f658b4
+TXN001769,Eldoret,CL998,SME,2022-10-04,3257064.339993397,KES,"High-value transfer to China; third-party deposits observed; escalate to compliance team. Approx amount KES 3,257,064. #74d42a"
+TXN002006,Kisumu,CL818,Retail,2022-08-30,597699.7596895106,KES,Transaction for school fees processed at Kisumu; ID verified. #90cb18
+TXN001505,Eldoret,CL982,Corporate,2022-02-16,1318617.9725667925,KES,Irregular pattern detected; profile inconsistent with transactions; escalate to compliance team. #91fad4
+TXN001680,Nairobi_Main,CL880,Retail,2024-04-03,2851503.8544442137,KES,Unusual outgoing activity; no valid KYC; escalate to compliance team. #ca32de
+TXN000195,Eldoret,CL492,SME,2023-01-16,782087.703310809,KES,"Routine payment for salary at Mombasa; invoice checked. Approx amount KES 782,088. #6cd1b3"
+TXN001448,Kisumu,CL591,Retail,2022-04-13,6043263.655475627,KES,High-value transfer to Mauritius; no valid KYC; EDD triggered. #3bf4e6
+TXN004555,Kisumu,CL575,SME,2022-01-16,1512963.1640136808,KES,"Irregular pattern detected; profile inconsistent with transactions; EDD triggered. Approx amount KES 1,512,963. #c9cd46"
+TXN002739,Westlands,CL989,Retail,2023-05-23,1085751.7732369364,KES,Routine payment for utilities at Nairobi; ID verified. #df2951
+TXN000006,Eldoret,CL369,Corporate,2024-05-27,1803877.316387674,KES,Routine payment for school fees at Nakuru; invoice checked. #fe0d38
+TXN001860,Westlands,CL575,Corporate,2022-08-25,543608.1104156692,KES,Customer activity aligned with historical patterns; ID verified. #aaefc8
+TXN000799,Eldoret,CL366,Corporate,2024-06-18,2036576.0025301687,KES,"2,036,576. KES amount Approx triggered. EDD observed; deposits third-party China; to transfer High-value #47255d"
+TXN002360,Westlands,CL349,SME,2023-11-18,290523.55730915547,KES,"Processed salary or bill payment at Thika; invoice checked. Approx amount KES 290,524. #51db15"
+TXN000233,Kisumu,CL159,SME,2024-12-20,378465.332810663,KES,"Processed salary or bill payment at Thika; statements reviewed. Approx amount KES 378,465. #a61ee6"
+TXN003823,Kisumu,CL891,Retail,2023-11-06,678575.2926829609,KES,Transaction for salary processed at Nakuru; ID verified. #06f498
+TXN002368,Mombasa,CL612,Retail,2024-02-17,273329.38682854513,KES,"Processed salary or bill payment at Kisumu; invoice checked. Approx amount KES 273,329. #9670ad"
+TXN002353,Mombasa,CL397,Retail,2023-10-20,229539.6366212447,KES,Transaction for salary processed at Mombasa; statements reviewed. #c3da44
+TXN002319,Mombasa,CL169,Corporate,2024-04-27,276479.52233199566,KES,"Routine payment for school fees at Mombasa; ID verified. Approx amount KES 276,480. #09668f"
+TXN003776,Eldoret,CL384,Corporate,2024-06-18,381539.47958207474,KES,"Irregular pattern detected; no valid KYC; escalate to compliance team. Approx amount KES 381,539. #434bbd"
+TXN002628,Kisumu,CL344,Corporate,2024-03-12,1330759.488213939,KES,High-value tranfer to Mauritius; third-party deposits observed; EDD triggered. #eebec2
+TXN004241,Kisumu,CL370,SME,2022-10-29,4425354.028916194,KES,triggered. EDD observed; deposits third-party detected; pattern Irregular #48cf31
+TXN001358,Eldoret,CL221,SME,2024-12-19,212089.13255128116,KES,reviewed. statements Nakuru; at payment bill or salary Processed #2d187f
+TXN001023,Kisumu,CL307,Corporate,2022-11-05,2675345.9338818057,KES,Transaction for salary processed at Nairobi; ID verified. #6572d2
+TXN001385,Eldoret,CL407,Corporate,2022-07-12,2595691.0049839355,KES,Large foreign remittance to Hong Kong; no valid KYC; STR recommended. #0a3ebd
+TXN003238,Mombasa,CL652,Corporate,2023-07-06,679625.5966420546,KES,verified. ID Mombasa; at processed utilities for Transaction #47a969
+TXN004108,Eldoret,CL953,SME,2023-03-08,1655614.3063142188,KES,"Unusual outgoing activity; third-party deposits observed; STR recommended. Approx amount KES 1,655,614. #3d5c00"
+TXN001647,Eldoret,CL744,SME,2023-05-31,4814568.56113181,KES,Large foreign remittance to Hong Kong; third-party deposits observed; STR recommended. #fa7041
+TXN002624,Mombasa,CL533,SME,2024-06-15,795585.7837174474,KES,Transaction for loan repayment processed at Thika; statements reviewed. #a7da1d
+TXN000946,Eldoret,CL966,Retail,2024-08-17,502337.4309971821,KES,"502,337. KES amount Approx team. compliance to escalate KYC; valid no UK; to remittance foreign Large #6b4387"
+TXN002111,Westlands,CL665,Corporate,2022-07-25,532876.4982770896,KES,checked. invoice Mombasa; at salary for payment Routine #1a462c
+TXN001742,Nairobi_Main,CL717,SME,2024-06-04,627209.888614064,KES,"Processed salary or bill payment at Nairobi; statements reviewed. Approx amount KES 627,210. #4414c1"
+TXN000745,Eldoret,CL486,Retail,2023-12-14,359323.8431094418,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 359,324. #baf3ef"
+TXN000795,Mombasa,CL228,SME,2022-01-13,1248192.4182701868,KES,"Routine payment for school fees at Thika; statements reviewed. Approx amount KES 1,248,192. #088703"
+TXN000870,Kisumu,CL391,SME,2023-09-19,1690859.4285736296,KES,"Unusual outgoing activity; structuring suspected; STR recommended. Approx amount KES 1,690,859. #d37fa1"
+TXN000554,Westlands,CL736,Retail,2023-08-02,2686748.799464402,KES,Large foreign remittance to UK; third-party deposits observed; EDD triggered. #95366a
+TXN004572,Nairobi_Main,CL790,SME,2023-12-31,1052041.887576356,KES,Processed salary or bill payment at Kisumu; statements reviewed. #6db19d
+TXN001243,Kisumu,CL902,Corporate,2022-02-03,795494.284843409,KES,Unusual outgoing activity; no valid KYC; escalate to compliance team. #e1705f
+TXN003638,Westlands,CL836,SME,2022-10-26,547647.507200508,KES,Transaction for school fees processed at Thika; ID verified. #585646
+TXN003450,Eldoret,CL649,Retail,2024-03-03,427473.7201675869,KES,Routine payment for loan repayment at Mombasa; statements reviewed. #cdc7ce
+TXN003080,Kisumu,CL728,Retail,2023-05-03,1383839.1135004414,KES,"Processed salary or bill payment at Kisumu; invoice checked. Approx amount KES 1,383,839. #f23945"
+TXN003142,Mombasa,CL797,Corporate,2023-06-09,557174.630672771,KES,Transaction for salary processed at Nakuru; statements reviewed. #f59537
+TXN001892,Kisumu,CL219,Corporate,2023-08-20,1338757.7618031425,KES,Unusual outgoing activity; no valid KYC; EDD triggered. #80fbae
+TXN000115,Kisumu,CL346,Corporate,2022-08-01,737545.5585797128,KES,Transaction for utilities processed at Nakuru; ID verified. #890e36
+TXN001202,Kisumu,CL298,Corporate,2023-06-12,650572.6487661875,KES,Routine payment for salary at Kisumu; statements reviewed. #5ce281
+TXN001670,Westlands,CL193,SME,2023-07-25,505219.1278013068,KES,Transaction for loan repayment processed at Kisumu; ID verified. #d56f14
+TXN000882,Eldoret,CL574,Retail,2022-08-27,423959.1521215711,KES,"Processed salary or bill payment at Nairobi; invoice checked. Approx amount KES 423,959. #d8da89"
+TXN003866,Nairobi_Main,CL530,Corporate,2024-04-19,746885.5724236019,KES,reviewed. statements Thika; at processed utilities for Transaction #97fc50
+TXN001841,Eldoret,CL202,Retail,2024-02-22,159964.25582294952,KES,"159,964. KES amount Approx verified. ID Kisumu; at processed fees school for Transaction #c626a4"
+TXN001580,Westlands,CL355,SME,2022-09-01,687212.2243037178,KES,"Routine payment for utilities at Mombasa; ID verified. Approx amount KES 687,212. #dc9e77"
+TXN004093,Eldoret,CL169,Retail,2022-09-18,697383.6240639352,KES,Routine payment for rent at Nakuru; statements reviewed. #47674e
+TXN004299,Mombasa,CL950,SME,2024-04-29,342913.5271808958,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 342,914. #c170c8"
+TXN000617,Westlands,CL412,Corporate,2022-01-20,992553.9390623614,KES,Routine payment for school fees at Nakuru; statements reviewed. #ba99c0
+TXN004730,Kisumu,CL518,Corporate,2024-10-18,259815.12680353105,KES,Processed salary or bill payment at Nairobi; invoice checked. #4e3b37
+TXN000621,Kisumu,CL980,SME,2024-03-11,3030752.57557356,KES,"Unusual outgoing activity; structuring suspected; STR recommended. Approx amount KES 3,030,753. #038503"
+TXN003617,Nairobi_Main,CL467,Retail,2023-01-02,1535336.9278129984,KES,High-value transfer to China; third-party deposits observed; STR recommended. #2e2ba8
+TXN002976,Nairobi_Main,CL585,Corporate,2022-07-11,1446409.2652894373,KES,Routine payment for school fees at Kisumu; invoice checked. #609e44
+TXN003388,Mombasa,CL934,Retail,2022-07-08,1091589.323475286,KES,Customer activity aligned with historical patterns; invoice checked. #14b655
+TXN003400,Eldoret,CL732,Retail,2024-11-10,3085692.018814708,KES,Large foreign remittance to UK; third-party deposits observed; EDD triggered. #54c3d1
+TXN004887,Eldoret,CL492,Retail,2024-01-25,1842556.3131835363,KES,"Routine payment for utilities at Nakuru; ID verified. Approx amount KES 1,842,556. #2104c4"
+TXN000309,Nairobi_Main,CL391,Corporate,2022-05-23,1652874.7668626115,KES,High-value tranfer to Mauritius; no valid KYC; STR recommended. #93c24d
+TXN003683,Mombasa,CL947,Corporate,2023-04-12,5994142.533072185,KES,"5,994,143. KES amount Approx triggered. EDD KYC; valid no detected; pattern Irregular #4c7f5c"
+TXN003565,Eldoret,CL164,Corporate,2022-03-29,619187.048043054,KES,Routine payment for loan repayment at Thika; ID verified. #378b8d
+TXN003536,Nairobi_Main,CL362,Retail,2024-01-28,960551.5132295446,KES,"Transaction for salary processed at Kisumu; ID verified. Approx amount KES 960,552. #53351a"
+TXN003803,Westlands,CL808,Retail,2024-01-08,2288749.727988621,KES,Unusual outgoing activity; no valid KYC; EDD triggered. #0a1e84
+TXN001176,Nairobi_Main,CL387,Corporate,2024-07-10,182577.53846283772,KES,"Processed salary or bill payment at Mombasa; statements reviewed. Approx amount KES 182,578. #a12d69"
+TXN003325,Mombasa,CL728,Retail,2023-12-20,832857.153913659,KES,Transaction for loan repayment processed at Kisumu; invoice checked. #c21187
+TXN000744,Kisumu,CL633,Corporate,2022-01-08,858001.6609680178,KES,Routine payment for salary at Mombasa; invoice checked. #43450f
+TXN003120,Mombasa,CL641,Retail,2023-08-29,425707.1558605388,KES,"Transaction for salary processed at Kisumu; ID verified. Approx amount KES 425,707. #c4e4e0"
+TXN003874,Kisumu,CL164,Retail,2024-11-28,1019237.8838450356,KES,Unusual outgoing activity; third-party deposits observed; STR recommended. #08e098
+TXN003186,Eldoret,CL152,Corporate,2023-10-07,258395.83891778596,KES,"Processed salary or bill payment at Thika; statements reviewed. Approx amount KES 258,396. #aed222"
+TXN000698,Kisumu,CL459,Corporate,2024-05-06,4554490.909770012,KES,Irregular pattern detected; profile inconsistent with transactions; EDD triggered. #bafeaf
+TXN002618,Kisumu,CL832,Retail,2022-03-18,822493.8490464066,KES,"Transaction for salary processed at Mombasa; statements reviewed. Approx amount KES 822,494. #964e81"
+TXN004315,Nairobi_Main,CL722,Retail,2023-01-29,1207602.030511877,KES,Processed salary or bill payment at Nairobi; ID verified. #06ff48
+TXN002592,Westlands,CL679,Retail,2023-11-06,1907795.5226396804,KES,"Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 1,907,796. #d493c1"
+TXN000075,Eldoret,CL997,SME,2024-12-23,4154539.932624935,KES,"Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 4,154,540. #8518ec"
+TXN001143,Nairobi_Main,CL565,Corporate,2023-08-18,2220002.3404937875,KES,Large foreign remittance to China; third-party deposits observed; escalate to compliance team. #5cb46d
+TXN003700,Westlands,CL431,SME,2022-08-09,5171403.9627388185,KES,triggered. EDD transactions; with inconsistent profile UK; to transfer High-value #9aee7e
+TXN004958,Nairobi_Main,CL249,SME,2022-02-06,1892916.5851580144,KES,recommended. STR observed; deposits third-party detected; pattern Irregular #b69067
+TXN001406,Westlands,CL222,Retail,2023-06-24,220738.17138722364,KES,checked. invoice Kisumu; at processed utilities for Transaction #d8b520
+TXN001146,Eldoret,CL526,Retail,2024-10-24,739221.1580434915,KES,"739,221. KES amount Approx triggered. EDD suspected; structuring detected; pattern Irregular #7d16b9"
+TXN003821,Nairobi_Main,CL879,Corporate,2022-05-20,2526549.958515955,KES,"2,526,550. KES amount Approx team. compliance to escalate suspected; structuring activity; outgoing Unusual #33f127"
+TXN000135,Mombasa,CL474,Retail,2024-03-31,7999910.919469373,KES,Large foreign remittance to Cyprus; third-party deposits observed; EDD triggered. #e85411
+TXN001078,Eldoret,CL707,Retail,2024-10-03,1707484.6035708324,KES,"1,707,485. KES amount Approx checked. invoice Kisumu; at processed repayment loan for Transaction #d2059a"
+TXN004897,Mombasa,CL521,SME,2024-08-19,272656.1630275918,KES,"Processed salary or bill payment at Mombasa; statements reviewed. Approx amount KES 272,656. #7b1805"
+TXN003099,Nairobi_Main,CL282,SME,2024-04-09,3341303.4949445287,KES,recommended. STR KYC; valid no UK; to transfer High-value #1777ba
+TXN003320,Kisumu,CL472,Corporate,2024-01-25,2365543.381463557,KES,Irregular pattern detected; third-party deposits observed; STR recommended. #e797b8
+TXN004312,Mombasa,CL223,Retail,2024-08-25,3094803.858413645,KES,Unusual outgoing activity; third-party deposits observed; EDD triggered. #b769b7
+TXN000690,Westlands,CL887,Corporate,2023-05-28,463853.3308470181,KES,"Transaction for utilities processed at Nakuru; ID verified. Approx amount KES 463,853. #39e54a"
+TXN001069,Mombasa,CL672,Corporate,2024-09-27,2708359.0519124907,KES,"Large foreign remittance to Dubai; profile inconsistent with transactions; STR recommended. Approx amount KES 2,708,359. #bd0914"
+TXN003128,Kisumu,CL642,Corporate,2023-09-19,628364.9247384327,KES,Customer activity aligned with historical patterns; statements reviewed. #ae72a6
+TXN001068,Kisumu,CL826,SME,2024-09-08,1301553.2524858222,KES,Unusual outgoing activity; third-party deposits observed; STR recommended. #48a5a8
+TXN000855,Kisumu,CL461,Corporate,2022-05-10,400503.4238430039,KES,"Transaction for loan repayment processed at Thika; invoice checked. Approx amount KES 400,503. #31a9ce"
+TXN002579,Nairobi_Main,CL806,SME,2024-10-10,9652798.543460025,KES,"Irregular pattern detected; profile inconsistent with transactions; STR recommended. Approx amount KES 9,652,799. #c76e04"
+TXN004356,Nairobi_Main,CL571,Retail,2022-02-06,700061.9675685979,KES,Processed salary or bill payment at Mombasa; ID verified. #cf2610
+TXN004691,Kisumu,CL288,Corporate,2024-02-28,707975.1048118379,KES,"707,975. KES amount Approx checked. invoice Thika; at processed utilities for Transaction #7074e5"
+TXN004192,Eldoret,CL789,Corporate,2022-02-13,1467200.9907701907,KES,Transaction for school fees processed at Nakuru; invoice checked. #e69a42
+TXN001171,Nairobi_Main,CL680,Retail,2023-05-10,2553747.0796824847,KES,"Large foreign remittance to China; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 2,553,747. #926f4d"
+TXN002405,Mombasa,CL453,SME,2022-06-15,1526247.606607127,KES,"1,526,248. KES amount Approx verified. ID patterns; historical with aligned activity Customer #5210a7"
+TXN001217,Westlands,CL512,Corporate,2024-05-11,725993.189970243,KES,"725,993. KES amount Approx reviewed. statements Kisumu; at processed rent for Transaction #05de1c"
+TXN004878,Kisumu,CL650,SME,2024-06-14,1073846.6806756577,KES,"Irregular pattern detected; profile inconsistent with transactions; EDD triggered. Approx amount KES 1,073,847. #e47ffc"
+TXN004376,Mombasa,CL149,SME,2022-05-22,113531.82208486112,KES,"Processed salary or bill payment at Mombasa; statements reviewed. Approx amount KES 113,532. #819e16"
+TXN002119,Kisumu,CL672,Corporate,2022-07-24,1669567.2409574022,KES,Large foreign remittance to UK; no valid KYC; escalate to compliance team. #c8f811
+TXN001738,Kisumu,CL414,SME,2023-06-28,4663500.166147275,KES,"4,663,500. KES amount Approx team. compliance to escalate observed; deposits third-party Mauritius; to tranfer High-value #575404"
+TXN000323,Westlands,CL717,Corporate,2022-01-03,2583539.9574186937,KES,Transaction for school fees processed at Nakuru; statements reviewed. #028ce7
+TXN001527,Westlands,CL591,Corporate,2024-08-31,1759025.4108221466,KES,Customer activity aligned with historical patterns; statements reviewed. #2afe6b
+TXN004430,Kisumu,CL530,Retail,2023-10-17,171645.93382928992,KES,checked. invoice patterns; historical with aligned activity Customer #b77274
+TXN003975,Nairobi_Main,CL756,Retail,2024-01-09,2355867.67384266,KES,Unusual outgoing activity; no valid KYC; STR recommended. #b5fa1e
+TXN002494,Eldoret,CL734,SME,2023-06-26,247816.8325916929,KES,"247,817. KES amount Approx reviewed. statements Nakuru; at utilities for payment Routine #5d3f42"
+TXN002309,Westlands,CL454,Corporate,2024-10-11,1111653.1593850153,KES,verified. ID patterns; historical with aligned activity Customer #0d3e51
+TXN002305,Kisumu,CL615,SME,2022-12-17,32570798.728867546,KES,"Unusual outgoing activity; no valid KYC; EDD triggered. Approx amount KES 32,570,799. #59ee66"
+TXN000411,Westlands,CL637,SME,2022-12-25,271780.63630268123,KES,Routine payment for rent at Nairobi; invoice checked. #75be48
+TXN000409,Nairobi_Main,CL313,Corporate,2023-11-11,856069.791426927,KES,"Routine payment for utilities at Nakuru; statements reviewed. Approx amount KES 856,070. #6f1e08"
+TXN002626,Eldoret,CL519,Corporate,2022-06-23,1594959.6229051286,KES,reviewed. statements patterns; historical with aligned activity Customer #a7970e
+TXN002468,Eldoret,CL268,SME,2023-06-20,963502.435857481,KES,Customer activity aligned with historical patterns; ID verified. #297e6b
+TXN000319,Westlands,CL762,SME,2022-02-15,1763606.205419457,KES,High-value transfer to UK; structuring suspected; EDD triggered. #36509f
+TXN001775,Mombasa,CL813,Corporate,2023-07-21,237040.0141982364,KES,Customer activity aligned with historical patterns; statements reviewed. #fcf80d
+TXN004303,Mombasa,CL897,Corporate,2022-10-29,3734352.961921575,KES,Unusual outgoing activity; third-party deposits observed; escalate to compliance team. #29af8e
+TXN004318,Kisumu,CL151,Corporate,2023-03-19,665401.2797984292,KES,reviewed. statements Nakuru; at payment bill or salary Processed #59680b
+TXN004345,Westlands,CL720,Retail,2023-03-12,608723.4666980309,KES,Customer activity aligned with historical patterns; statements reviewed. #46c3aa
+TXN004352,Mombasa,CL159,SME,2023-08-17,1584588.5470263597,KES,recommended. STR transactions; with inconsistent profile detected; pattern Irregular #7a0d1d
+TXN004843,Westlands,CL294,SME,2024-06-26,540822.2738918407,KES,Processed salary or bill payment at Mombasa; ID verified. #778792
+TXN003930,Eldoret,CL800,Retail,2023-12-14,955578.1416420656,KES,"955,578. KES amount Approx checked. invoice Nairobi; at processed fees school for Transaction #453920"
+TXN000142,Kisumu,CL724,SME,2023-01-29,466617.4746490583,KES,"Large foreign remittance to UK; third-party deposits observed; escalate to compliance team. Approx amount KES 466,617. #c1f455"
+TXN001993,Eldoret,CL973,Corporate,2022-04-20,3750776.572401388,KES,Large foreign remittance to China; third-party deposits observed; STR recommended. #629636
+TXN002571,Mombasa,CL561,Corporate,2023-05-04,538351.9066161704,KES,"High-value transfer to China; structuring suspected; escalate to compliance team. Approx amount KES 538,352. #e5acaa"
+TXN002427,Eldoret,CL402,Corporate,2022-08-26,571755.2465252585,KES,Processed salary or bill payment at Thika; ID verified. #f1d8ce
+TXN004677,Kisumu,CL470,SME,2022-02-09,5364156.825706648,KES,Large foreign remittance to Dubai; no valid KYC; STR recommended. #11f90f
+TXN002774,Kisumu,CL319,Corporate,2024-12-17,423450.7006624538,KES,Processed salary or bill payment at Mombasa; statements reviewed. #dc8df0
+TXN000640,Mombasa,CL418,Retail,2023-02-09,472102.1735357151,KES,Customer activity aligned with historical patterns; statements reviewed. #196b58
+TXN000367,Nairobi_Main,CL469,Corporate,2024-05-01,2005358.0086303568,KES,recommended. STR KYC; valid no detected; pattern Irregular #b57b99
+TXN003341,Westlands,CL125,SME,2023-02-24,503894.9567737768,KES,"503,895. KES amount Approx checked. invoice Mombasa; at payment bill or salary Processed #5f6db7"
+TXN003267,Kisumu,CL116,Retail,2023-02-03,1410976.9445170134,KES,team. compliance to escalate KYC; valid no detected; pattern Irregular #dbed27
+TXN001039,Mombasa,CL112,Corporate,2022-06-30,5087964.833640452,KES,Irregular pattern detected; no valid KYC; STR recommended. #139b53
+TXN003101,Kisumu,CL312,Corporate,2022-08-03,1086953.037409035,KES,Customer activity aligned with historical patterns; statements reviewed. #57ec1b
+TXN003323,Nairobi_Main,CL603,Retail,2024-05-26,2500942.910923088,KES,"2,500,943. KES amount Approx team. compliance to escalate observed; deposits third-party Mauritius; to transfer High-value #c1535b"
+TXN001998,Mombasa,CL283,Retail,2023-01-09,532774.2807829194,KES,Customer activity aligned with historical patterns; ID verified. #914314
+TXN003807,Westlands,CL537,SME,2023-10-19,150549.4755876118,KES,"Transaction for loan repayment processed at Thika; ID verified. Approx amount KES 150,549. #375084"
+TXN000860,Kisumu,CL539,Retail,2023-04-01,688345.4611072185,KES,"688,345. KES amount Approx checked. invoice Nairobi; at payment bill or salary Processed #a309ff"
+TXN001999,Westlands,CL840,Corporate,2023-05-31,354537.0555815328,KES,reviewed. statements Nairobi; at payment bill or salary Processed #ba9b63
+TXN004839,Nairobi_Main,CL662,Retail,2024-10-27,1100955.2537606796,KES,Large foreign remittance to Dubai; no valid KYC; escalate to compliance team. #9ccebf
+TXN003095,Nairobi_Main,CL478,Corporate,2024-11-06,1462452.6070986155,KES,verified. ID Mombasa; at processed rent for Transaction #cef032
+TXN001954,Kisumu,CL989,Retail,2024-04-01,393579.0020037948,KES,reviewed. statements Nairobi; at fees school for payment Routine #a1ca16
+TXN001077,Mombasa,CL221,SME,2024-01-03,442554.71580554784,KES,"442,555. KES amount Approx verified. ID patterns; historical with aligned activity Customer #16dc18"
+TXN004035,Kisumu,CL950,Retail,2024-11-30,4690420.840032656,KES,Large foreign remittance to Dubai; third-party deposits observed; STR recommended. #228d5b
+TXN002951,Nairobi_Main,CL190,SME,2024-10-15,1029089.6628566228,KES,Processed salary or bill payment at Nairobi; ID verified. #35b1e5
+TXN004727,Kisumu,CL171,Corporate,2024-06-18,424245.14695830544,KES,"Transaction for rent processed at Kisumu; statements reviewed. Approx amount KES 424,245. #6bb164"
+TXN001502,Nairobi_Main,CL460,Corporate,2024-05-08,949433.7231165632,KES,"Large foreign remittance to Hong Kong; no valid KYC; escalate to compliance team. Approx amount KES 949,434. #cc0210"
+TXN000326,Mombasa,CL678,SME,2023-07-19,1343350.751368599,KES,"1,343,351. KES amount Approx checked. invoice Kisumu; at payment bill or salary Processed #b610da"
+TXN000012,Eldoret,CL562,Retail,2023-05-23,707415.5872657585,KES,Processed salary or bill payment at Thika; statements reviewed. #244320
+TXN004381,Nairobi_Main,CL679,Corporate,2024-10-10,675584.0640244224,KES,Processed salary or bill payment at Nairobi; ID verified. #5f2a08
+TXN001685,Eldoret,CL860,SME,2023-05-18,1371445.1171837093,KES,"Processed salary or bill payment at Nairobi; invoice checked. Approx amount KES 1,371,445. #b3a64a"
+TXN002836,Kisumu,CL551,SME,2023-12-11,11003488.651479878,KES,Large foreign remittance to China; third-party deposits observed; EDD triggered. #65c8ad
+TXN000426,Mombasa,CL545,Corporate,2023-03-09,831984.3299888015,KES,"Large foreign remittance to Dubai; profile inconsistent with transactions; STR recommended. Approx amount KES 831,984. #5b0121"
+TXN000749,Nairobi_Main,CL459,SME,2024-04-25,223091.4892957072,KES,"Transaction for rent processed at Nakuru; ID verified. Approx amount KES 223,091. #620c8f"
+TXN000913,Kisumu,CL614,Corporate,2024-12-26,1801656.8934570283,KES,Processed salary or bill payment at Kisumu; invoice checked. #896fd0
+TXN004646,Eldoret,CL401,Corporate,2024-04-08,225276.80499610517,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 225,277. #a0ff94"
+TXN004235,Nairobi_Main,CL603,SME,2024-06-11,685899.4365029173,KES,"685,899. KES amount Approx recommended. STR KYC; valid no detected; pattern Irregular #e11c9b"
+TXN004657,Mombasa,CL621,Corporate,2024-11-04,309057.959514068,KES,Transaction for loan repayment processed at Nakuru; statements reviewed. #913a64
+TXN001336,Mombasa,CL177,Retail,2022-08-16,1141595.727762228,KES,Large foreign remittance to Cyprus; no valid KYC; EDD triggered. #bdf502
+TXN004660,Eldoret,CL112,Retail,2023-11-20,1685162.4690229984,KES,Customer activity aligned with historical patterns; ID verified. #df9c9f
+TXN000858,Kisumu,CL982,Retail,2022-06-06,405730.274385943,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 405,730. #236299"
+TXN003190,Nairobi_Main,CL293,SME,2022-11-18,1371316.8858060474,KES,"Irregular pattern detected; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 1,371,317. #3e24be"
+TXN001994,Westlands,CL217,SME,2023-03-31,763763.7138738994,KES,verified. ID patterns; historical with aligned activity Customer #c6d11b
+TXN001989,Kisumu,CL952,Corporate,2024-09-04,808022.9828918286,KES,Processed salary or bill payment at Nakuru; invoice checked. #b053a2
+TXN001497,Eldoret,CL311,Corporate,2024-02-29,5882718.879838903,KES,Unusual outgoing activity; third-party deposits observed; STR recommended. #d3cc00
+TXN002272,Eldoret,CL260,Retail,2023-01-26,372132.1620866971,KES,Processed salary or bill payment at Mombasa; invoice checked. #5016f7
+TXN000149,Westlands,CL114,Corporate,2023-11-22,2590305.0480491826,KES,"2,590,305. KES amount Approx triggered. EDD observed; deposits third-party activity; outgoing Unusual #8a460b"
+TXN003792,Westlands,CL410,Retail,2024-10-27,715001.0421654581,KES,Customer activity aligned with historical patterns; statements reviewed. #7111a2
+TXN000718,Nairobi_Main,CL215,Corporate,2024-05-25,462994.96183824574,KES,"462,995. KES amount Approx reviewed. statements Mombasa; at processed salary for Transaction #9e769b"
+TXN002043,Mombasa,CL414,SME,2023-05-14,2274155.6186413504,KES,"2,274,156. KES amount Approx recommended. STR transactions; with inconsistent profile detected; pattern Irregular #bf7b3d"
+TXN003482,Mombasa,CL836,Retail,2022-06-15,1432340.667099897,KES,High-value transfer to UK; structuring suspected; STR recommended. #4c90bb
+TXN003963,Nairobi_Main,CL938,SME,2024-02-20,3960796.5356587074,KES,"3,960,797. KES amount Approx triggered. EDD transactions; with inconsistent profile Mauritius; to transfer High-value #d8d2f2"
+TXN004135,Mombasa,CL386,Corporate,2022-12-14,1398039.2145264852,KES,Unusual outgoing activity; third-party deposits observed; escalate to compliance team. #6c8fef
+TXN001414,Nairobi_Main,CL928,Corporate,2023-05-09,380612.5618683255,KES,Routine payment for utilities at Mombasa; invoice checked. #73ccee
+TXN003372,Kisumu,CL893,Retail,2024-05-05,1648950.006794216,KES,Processed salary or bill payment at Nakuru; invoice checked. #e52f2d
+TXN000606,Westlands,CL412,SME,2023-05-07,988149.9345234076,KES,"High-value transfer to Hong Kong; profile inconsistent with transactions; STR recommended. Approx amount KES 988,150. #0f1ece"
+TXN003206,Eldoret,CL123,SME,2022-06-03,989155.1750485282,KES,triggered. EDD KYC; valid no detected; pattern Irregular #319f5e
+TXN000537,Kisumu,CL676,Corporate,2023-03-11,456256.8142177656,KES,"Transaction for school fees processed at Nairobi; invoice checked. Approx amount KES 456,257. #982617"
+TXN001031,Kisumu,CL475,Corporate,2024-05-19,185719.2025482301,KES,Transaction for rent processed at Nakuru; ID verified. #117f3f
+TXN004132,Nairobi_Main,CL186,Corporate,2023-01-18,1263322.372410888,KES,Transaction for rent processed at Nairobi; statements reviewed. #0f5151
+TXN002109,Kisumu,CL503,SME,2024-07-13,3412203.021337793,KES,High-value transfer to China; third-party deposits observed; escalate to compliance team. #d47d94
+TXN003294,Westlands,CL731,Retail,2022-05-25,256551.53677241303,KES,"256,552. KES amount Approx checked. invoice patterns; historical with aligned activity Customer #e14441"
+TXN004271,Mombasa,CL867,Retail,2024-11-08,413903.4810474036,KES,verified. ID patterns; historical with aligned activity Customer #ec43a4
+TXN000360,Westlands,CL611,Retail,2023-11-25,859015.7705278514,KES,Customer activity aligned with historical patterns; statements reviewed. #390abd
+TXN001229,Nairobi_Main,CL607,SME,2024-06-25,2806268.1582957422,KES,reviewed. statements patterns; historical with aligned activity Customer #e8a8cb
+TXN000653,Kisumu,CL597,SME,2023-11-22,275249.12176009885,KES,"Transaction for loan repayment processed at Nairobi; ID verified. Approx amount KES 275,249. #cb6177"
+TXN004380,Nairobi_Main,CL854,Retail,2023-07-28,666629.396666861,KES,"Transaction for rent processed at Nakuru; statements reviewed. Approx amount KES 666,629. #f2c58e"
+TXN003867,Kisumu,CL114,Corporate,2023-06-17,1900318.5499357844,KES,Customer activity aligned with historical patterns; invoice checked. #29ab66
+TXN004393,Nairobi_Main,CL292,Retail,2024-09-07,411305.7570185865,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 411,306. #952e56"
+TXN002621,Nairobi_Main,CL144,SME,2024-01-10,1037515.7183227852,KES,"Transaction for rent processed at Mombasa; statements reviewed. Approx amount KES 1,037,516. #f76403"
+TXN001916,Mombasa,CL798,Corporate,2024-01-17,975782.1400167244,KES,team. compliance to escalate KYC; valid no Dubai; to remittance foreign Large #128368
+TXN003064,Kisumu,CL233,SME,2024-03-27,507360.320633932,KES,High-value transfer to Cyprus; structuring suspected; STR recommended. #8ba27e
+TXN002553,Kisumu,CL642,SME,2023-10-17,784443.5753012125,KES,Customer activity aligned with historical patterns; statements reviewed. #c63e5f
+TXN003708,Kisumu,CL434,Retail,2023-06-18,803591.8765611638,KES,Routine payment for salary at Nairobi; statements reviewed. #238ef4
+TXN001360,Eldoret,CL691,Corporate,2023-01-18,590829.7037717673,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 590,830. #ab578a"
+TXN003360,Westlands,CL791,Retail,2024-09-01,266376.85087450955,KES,Processed salary or bill payment at Nairobi; statements reviewed. #5411e0
+TXN002566,Westlands,CL611,Corporate,2024-04-11,297428.5251918471,KES,"Transaction for loan repayment processed at Kisumu; statements reviewed. Approx amount KES 297,429. #83d4b6"
+TXN004495,Eldoret,CL756,Retail,2022-09-26,1932188.703229212,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 1,932,189. #de08cb"
+TXN003002,Kisumu,CL459,Corporate,2022-08-21,447072.5329792753,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 447,073. #d990fd"
+TXN002923,Mombasa,CL379,SME,2022-09-16,1871462.2602275573,KES,"Large foreign remittance to Mauritius; structuring suspected; STR recommended. Approx amount KES 1,871,462. #f93486"
+TXN004823,Kisumu,CL361,Retail,2022-11-10,1957758.8452731145,KES,team. compliance to escalate suspected; structuring Dubai; to remittance foreign Large #595f29
+TXN000530,Mombasa,CL354,SME,2024-07-27,933797.3476617688,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 933,797. #e4aed6"
+TXN003129,Eldoret,CL258,Corporate,2023-08-16,1369089.077736423,KES,"High-value transfer to China; profile inconsistent with transactions; EDD triggered. Approx amount KES 1,369,089. #c6e834"
+TXN001515,Westlands,CL537,SME,2022-09-09,548409.0582506446,KES,Processed salary or bill payment at Nairobi; statements reviewed. #f8c498
+TXN004070,Westlands,CL413,SME,2023-08-31,891271.5186886207,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 891,272. #e71cf8"
+TXN002765,Kisumu,CL817,SME,2022-02-02,1060489.1361259231,KES,Routine payment for loan repayment at Nakuru; ID verified. #e6478b
+TXN001877,Eldoret,CL886,Retail,2023-08-07,1642451.1926698962,KES,recommended. STR suspected; structuring UK; to remittance foreign Large #7c46cc
+TXN000797,Westlands,CL328,Corporate,2022-11-13,962270.127608038,KES,Transaction for loan repayment processed at Thika; statements reviewed. #ede02e
+TXN003787,Eldoret,CL340,SME,2022-10-04,321362.77999451105,KES,Transaction for loan repayment processed at Nairobi; ID verified. #5461d5
+TXN001126,Westlands,CL788,SME,2022-08-22,738107.5507345881,KES,"738,108. KES amount Approx verified. ID Nairobi; at fees school for payment Routine #e0ca3d"
+TXN003266,Westlands,CL557,SME,2024-10-25,322924.5055615045,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 322,925. #71adb4"
+TXN003353,Eldoret,CL328,Retail,2022-11-14,630336.7928516353,KES,Transaction for school fees processed at Thika; statements reviewed. #d44773
+TXN004353,Westlands,CL616,Corporate,2024-09-02,185159.7544662808,KES,"185,160. KES amount Approx verified. ID Thika; at repayment loan for payment Routine #72e7b0"
+TXN004176,Kisumu,CL759,Corporate,2024-06-18,1966253.0697794184,KES,Unusual outgoing activity; structuring suspected; STR recommended. #3bb22d
+TXN002901,Kisumu,CL253,SME,2022-05-18,443757.9639859772,KES,verified. ID Nairobi; at repayment loan for payment Routine #95527a
+TXN002398,Westlands,CL929,Retail,2024-08-23,690441.9167183943,KES,verified. ID patterns; historical with aligned activity Customer #6ef809
+TXN001368,Kisumu,CL675,Corporate,2022-05-01,1330474.1945744385,KES,Unusual outgoing activity; third-party deposits observed; escalate to compliance team. #25c13c
+TXN004598,Nairobi_Main,CL807,SME,2024-08-08,802306.5550054066,KES,Customer activity aligned with historical patterns; statements reviewed. #9193cc
+TXN003262,Mombasa,CL214,Retail,2024-06-03,317035.7864522806,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 317,036. #9e7698"
+TXN000074,Westlands,CL743,Retail,2022-03-22,95432.87761344596,KES,reviewed. statements Mombasa; at payment bill or salary Processed #8df5af
+TXN001165,Westlands,CL383,Retail,2022-01-06,3294703.326675923,KES,Customer activity aligned with historical patterns; ID verified. #ffd727
+TXN003471,Kisumu,CL820,Retail,2023-08-24,564324.6872750986,KES,Transaction for salary processed at Nairobi; invoice checked. #d85732
+TXN001084,Westlands,CL830,SME,2022-08-26,2796116.1053950824,KES,"2,796,116. KES amount Approx triggered. EDD suspected; structuring activity; outgoing Unusual #3725cf"
+TXN001140,Eldoret,CL988,Corporate,2023-01-12,484903.6777644545,KES,Processed salary or bill payment at Nakuru; ID verified. #a4f650
+TXN004290,Eldoret,CL272,SME,2024-12-10,852583.0146295016,KES,Routine payment for salary at Kisumu; invoice checked. #cf154b
+TXN003407,Nairobi_Main,CL345,SME,2023-03-05,652342.1887227241,KES,"Transaction for utilities processed at Thika; invoice checked. Approx amount KES 652,342. #e0ab67"
+TXN004294,Nairobi_Main,CL340,Retail,2022-12-06,1389737.8753027376,KES,"Transaction for utilities processed at Nairobi; statements reviewed. Approx amount KES 1,389,738. #c4aac2"
+TXN003195,Nairobi_Main,CL308,SME,2023-02-25,160170.3117074967,KES,Transaction for utilities processed at Nairobi; invoice checked. #cdb9cf
+TXN002614,Westlands,CL945,Corporate,2022-12-20,3398738.701475648,KES,Large foreign remittance to Hong Kong; third-party deposits observed; escalate to compliance team. #c46e9a
+TXN004334,Kisumu,CL759,SME,2024-08-30,831616.6010190819,KES,"Transaction for loan repayment processed at Nakuru; invoice checked. Approx amount KES 831,617. #255070"
+TXN000313,Eldoret,CL583,Corporate,2022-11-01,1055427.8051396783,KES,checked. invoice Thika; at processed repayment loan for Transaction #f65408
+TXN003172,Westlands,CL787,Retail,2024-08-15,237520.1298284082,KES,verified. ID Nairobi; at processed utilities for Transaction #637570
+TXN001718,Nairobi_Main,CL923,Corporate,2022-02-19,981283.0921530948,KES,verified. ID Kisumu; at processed repayment loan for Transaction #813e85
+TXN002334,Eldoret,CL716,SME,2023-12-23,1113777.7958677893,KES,"1,113,778. KES amount Approx verified. ID Mombasa; at payment bill or salary Processed #74e253"
+TXN001019,Mombasa,CL661,SME,2024-02-07,2904434.752148251,KES,"2,904,435. KES amount Approx team. compliance to escalate suspected; structuring detected; pattern Irregular #97c50e"
+TXN001045,Kisumu,CL800,Corporate,2024-05-28,1108548.3850880563,KES,Customer activity aligned with historical patterns; invoice checked. #6975ab
+TXN002157,Eldoret,CL181,Corporate,2023-05-02,478111.5881639791,KES,Routine payment for school fees at Kisumu; statements reviewed. #ae7f99
+TXN002899,Westlands,CL909,Corporate,2023-08-01,2567892.326455792,KES,"High-value transfer to China; no valid KYC; escalate to compliance team. Approx amount KES 2,567,892. #d190a0"
+TXN002028,Kisumu,CL796,SME,2023-03-09,691599.0026450274,KES,"691,599. KES amount Approx checked. invoice Mombasa; at payment bill or salary Processed #84d026"
+TXN002573,Nairobi_Main,CL682,SME,2023-01-23,576572.7297046048,KES,Customer activity aligned with historical patterns; invoice checked. #35d2b1
+TXN002324,Westlands,CL145,Retail,2022-06-12,594860.847138083,KES,Customer activity aligned with historical patterns; ID verified. #818a6e
+TXN002359,Westlands,CL321,SME,2023-03-18,794967.862297598,KES,checked. invoice Thika; at processed salary for Transaction #3cdba3
+TXN000038,Mombasa,CL498,Corporate,2022-02-10,599968.5738989061,KES,"Irregular pattern detected; structuring suspected; escalate to compliance team. Approx amount KES 599,969. #9e0e58"
+TXN002562,Mombasa,CL458,Corporate,2023-08-30,312450.9456004426,KES,Customer activity aligned with historical patterns; statements reviewed. #11e6fa
+TXN004856,Nairobi_Main,CL437,SME,2022-01-12,1098573.0311525257,KES,verified. ID Mombasa; at processed fees school for Transaction #0412e9
+TXN004752,Mombasa,CL868,Corporate,2023-04-15,1603461.236663794,KES,High-value transfer to UK; third-party deposits observed; EDD triggered. #fc16aa
+TXN004586,Eldoret,CL248,SME,2024-06-28,1220853.515471946,KES,Routine payment for utilities at Thika; ID verified. #4a92ff
+TXN004267,Westlands,CL418,Retail,2024-10-09,329068.5601639283,KES,High-value transfer to UK; no valid KYC; STR recommended. #0d6d0f
+TXN000961,Mombasa,CL784,Corporate,2024-11-30,1514213.5770463755,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 1,514,214. #f343f5"
+TXN002404,Eldoret,CL721,SME,2024-11-26,1926887.304266127,KES,reviewed. statements patterns; historical with aligned activity Customer #536366
+TXN004284,Kisumu,CL832,Corporate,2023-01-01,983444.5496200722,KES,"High-value transfer to China; third-party deposits observed; STR recommended. Approx amount KES 983,445. #f87e6b"
+TXN002853,Nairobi_Main,CL846,Corporate,2023-04-13,696887.3106000982,KES,Customer activity aligned with historical patterns; ID verified. #6d315e
+TXN004337,Mombasa,CL265,SME,2024-04-01,3118700.162126349,KES,"High-value tranfer to UK; profile inconsistent with transactions; EDD triggered. Approx amount KES 3,118,700. #a955b8"
+TXN001696,Eldoret,CL934,SME,2024-01-23,805889.4133983393,KES,"805,889. KES amount Approx recommended. STR transactions; with inconsistent profile Kong; Hong to remittance foreign Large #0d8504"
+TXN004554,Eldoret,CL856,SME,2023-10-12,564913.6140295858,KES,Customer activity aligned with historical patterns; ID verified. #78d292
+TXN003297,Eldoret,CL626,Corporate,2024-02-25,846650.9676859898,KES,Irregular pattern detected; structuring suspected; escalate to compliance team. #71465d
+TXN003426,Nairobi_Main,CL395,SME,2023-03-15,712687.412908113,KES,Customer activity aligned with historical patterns; invoice checked. #862b7d
+TXN001714,Eldoret,CL973,SME,2022-07-03,410557.0889029647,KES,"Transaction for utilities processed at Nakuru; invoice checked. Approx amount KES 410,557. #74f491"
+TXN003221,Westlands,CL941,SME,2024-04-24,1014845.1574015412,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 1,014,845. #2cbd63"
+TXN004749,Nairobi_Main,CL916,SME,2024-07-04,639517.5258427064,KES,verified. ID Nakuru; at utilities for payment Routine #ca4e5f
+TXN000194,Kisumu,CL729,Corporate,2022-06-23,674162.6276445708,KES,"674,163. KES amount Approx reviewed. statements Nakuru; at repayment loan for payment Routine #426d99"
+TXN003006,Westlands,CL896,Corporate,2024-09-02,839217.6792166189,KES,Transaction for loan repayment processed at Nakuru; statements reviewed. #8d95e9
+TXN001149,Eldoret,CL754,Retail,2022-06-06,330092.1233586515,KES,Processed salary or bill payment at Nakuru; ID verified. #9b8146
+TXN002262,Eldoret,CL709,SME,2022-05-05,1418410.6387964352,KES,reviewed. statements Kisumu; at processed salary for Transaction #c1521d
+TXN000723,Eldoret,CL991,Retail,2022-03-03,3870668.095569575,KES,Irregular pattern detected; no valid KYC; escalate to compliance team. #d984c9
+TXN002653,Kisumu,CL579,Retail,2024-06-20,1228625.2384367094,KES,Transaction for salary processed at Nakuru; ID verified. #161ec7
+TXN002096,Westlands,CL906,Corporate,2023-06-22,954875.6791313932,KES,Routine payment for utilities at Thika; invoice checked. #1c2000
+TXN000741,Mombasa,CL992,SME,2024-12-10,626798.7090903487,KES,"626,799. KES amount Approx triggered. EDD observed; deposits third-party detected; pattern Irregular #ab9de8"
+TXN001440,Nairobi_Main,CL918,Retail,2022-05-18,949809.6623360824,KES,"Processed salary or bill payment at Nakuru; ID verified. Approx amount KES 949,810. #106b56"
+TXN002517,Mombasa,CL378,SME,2023-01-04,126309.40095208304,KES,Customer activity aligned with historical patterns; invoice checked. #444327
+TXN003408,Mombasa,CL938,Retail,2024-10-31,511072.92647174175,KES,Customer activity aligned with historical patterns; ID verified. #0ce28a
+TXN000863,Westlands,CL160,SME,2023-06-01,9981958.842045687,KES,"Unusual outgoing activity; structuring suspected; STR recommended. Approx amount KES 9,981,959. #7bc2d4"
+TXN002140,Nairobi_Main,CL133,SME,2023-06-27,2299689.696225171,KES,Unusual outgoing activity; third-party deposits observed; EDD triggered. #877dab
+TXN003312,Eldoret,CL470,SME,2023-07-24,12960830.706829296,KES,"12,960,831. KES amount Approx triggered. EDD observed; deposits third-party detected; pattern Irregular #b46259"
+TXN004640,Eldoret,CL126,SME,2022-02-21,1055776.002748272,KES,"1,055,776. KES amount Approx verified. ID Mombasa; at payment bill or salary Processed #057414"
+TXN003143,Eldoret,CL441,Retail,2024-08-22,1152520.0028961564,KES,triggered. EDD observed; deposits third-party activity; outgoing Unusual #5a693c
+TXN001932,Mombasa,CL590,Corporate,2022-07-21,431180.7610083484,KES,Customer activity aligned with historical patterns; statements reviewed. #b69dee
+TXN004145,Westlands,CL634,Retail,2024-02-09,185784.5367867065,KES,"Unusual outgoing activity; no valid KYC; escalate to compliance team. Approx amount KES 185,785. #d8262c"
+TXN004045,Nairobi_Main,CL950,Corporate,2023-09-09,1364651.6327595462,KES,Irregular pattern detected; structuring suspected; STR recommended. #c87f25
+TXN001976,Eldoret,CL706,Corporate,2023-09-20,5453136.1853545,KES,High-value transfer to Hong Kong; no valid KYC; escalate to compliance team. #150f9a
+TXN003577,Westlands,CL709,SME,2022-05-02,382010.0099985423,KES,Routine payment for school fees at Kisumu; ID verified. #c1d504
+TXN002651,Eldoret,CL460,Corporate,2023-08-18,1729769.5448811762,KES,Customer activity aligned with historical patterns; invoice checked. #d5f654
+TXN004558,Nairobi_Main,CL384,SME,2022-06-29,1222145.9146365223,KES,team. compliance to escalate transactions; with inconsistent profile activity; outgoing Unusual #01ff14
+TXN003923,Westlands,CL620,Corporate,2023-12-28,193281.47954462536,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 193,281. #e269c2"
+TXN002768,Nairobi_Main,CL499,Corporate,2022-11-20,416024.42409164767,KES,"Processed salary or bill payment at Mombasa; invoice checked. Approx amount KES 416,024. #94d9ee"
+TXN003992,Eldoret,CL721,Corporate,2023-03-22,149815.3118528953,KES,Transaction for loan repayment processed at Kisumu; ID verified. #5ee471
+TXN004471,Kisumu,CL864,Corporate,2022-07-10,6296063.620071905,KES,"Irregular pattern detected; no valid KYC; escalate to compliance team. Approx amount KES 6,296,064. #892b9f"
+TXN003219,Mombasa,CL291,Corporate,2024-04-24,989579.6407428308,KES,"989,580. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #b4eab4"
+TXN003081,Westlands,CL200,SME,2023-07-08,2249737.0099068694,KES,"Unusual outgoing activity; profile inconsistent with transactions; STR recommended. Approx amount KES 2,249,737. #b5cb38"
+TXN002556,Westlands,CL329,SME,2023-02-20,184947.4546661125,KES,"Large foreign remittance to China; no valid KYC; EDD triggered. Approx amount KES 184,947. #f81f04"
+TXN001185,Eldoret,CL996,Retail,2022-09-16,1153763.576016781,KES,Transaction for loan repayment processed at Nakuru; invoice checked. #3337b3
+TXN004505,Westlands,CL531,SME,2023-10-25,2789756.4549216763,KES,"Large foreign remittance to Hong Kong; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 2,789,756. #0492cb"
+TXN000085,Mombasa,CL175,Retail,2023-10-22,420319.3546291709,KES,Routine payment for utilities at Nairobi; ID verified. #ccbd07
+TXN000422,Mombasa,CL217,Corporate,2024-08-06,501683.68778685154,KES,reviewed. statements Kisumu; at payment bill or salary Processed #aaec19
+TXN000453,Eldoret,CL277,SME,2022-05-10,849864.8032895878,KES,reviewed. statements Nairobi; at payment bill or salary Processed #90d08c
+TXN000113,Nairobi_Main,CL956,SME,2022-02-03,3349325.293997443,KES,"3,349,325. KES amount Approx verified. ID Kisumu; at payment bill or salary Processed #2dba8a"
+TXN004263,Nairobi_Main,CL507,Corporate,2024-12-08,1524866.2068584878,KES,Unusual outgoing activity; structuring suspected; STR recommended. #71fee7
+TXN000222,Nairobi_Main,CL443,Retail,2024-02-10,965481.4166321016,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 965,481. #1aa4d8"
+TXN004584,Mombasa,CL819,Retail,2022-12-09,523460.61132477655,KES,Transaction for salary processed at Nakuru; statements reviewed. #b73086
+TXN002354,Kisumu,CL706,SME,2024-05-30,1394938.3654249886,KES,"1,394,938. KES amount Approx reviewed. statements Mombasa; at processed salary for Transaction #c24540"
+TXN004899,Westlands,CL532,Retail,2023-09-09,911323.6336966573,KES,Routine payment for utilities at Mombasa; invoice checked. #7fc8a1
+TXN003185,Eldoret,CL723,Corporate,2024-10-13,1515721.9723642296,KES,"Transaction for rent processed at Nakuru; ID verified. Approx amount KES 1,515,722. #6e53d9"
+TXN004838,Westlands,CL581,Retail,2024-03-28,1537389.8464168785,KES,"Transaction for rent processed at Kisumu; ID verified. Approx amount KES 1,537,390. #953bf1"
+TXN004942,Kisumu,CL137,Retail,2024-06-07,632846.261856003,KES,reviewed. statements Nairobi; at payment bill or salary Processed #4bf6e5
+TXN002055,Kisumu,CL222,Corporate,2023-01-12,336555.8872385548,KES,Routine payment for rent at Nakuru; invoice checked. #4fce7b
+TXN004258,Westlands,CL776,Retail,2024-05-20,1825682.7383944285,KES,"High-value transfer to Cyprus; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 1,825,683. #377949"
+TXN001365,Nairobi_Main,CL164,Corporate,2024-03-28,1719120.5059702424,KES,Irregular pattern detected; structuring suspected; STR recommended. #3bb174
+TXN003199,Eldoret,CL637,Corporate,2023-05-06,811077.7768691626,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 811,078. #9f861e"
+TXN004051,Mombasa,CL256,Retail,2022-06-02,677981.8616400862,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 677,982. #96d8d0"
+TXN004957,Mombasa,CL748,SME,2022-12-22,1254268.1561396252,KES,Transaction for loan repayment processed at Nakuru; ID verified. #45e8e1
+TXN002336,Nairobi_Main,CL330,Retail,2024-11-13,847855.9287234091,KES,Processed salary or bill payment at Nairobi; invoice checked. #2ebca5
+TXN002581,Nairobi_Main,CL925,Corporate,2023-10-08,784193.7798500053,KES,"784,194. KES amount Approx verified. ID patterns; historical with aligned activity Customer #24bb02"
+TXN001852,Nairobi_Main,CL103,Corporate,2024-04-23,258966.5593250217,KES,"Processed salary or bill payment at Nakuru; ID verified. Approx amount KES 258,967. #946106"
+TXN002065,Eldoret,CL672,SME,2024-12-23,397149.8481340852,KES,Routine payment for school fees at Nairobi; ID verified. #2043a0
+TXN003480,Mombasa,CL717,SME,2022-08-05,1510630.1984861346,KES,"High-value transfer to UK; profile inconsistent with transactions; EDD triggered. Approx amount KES 1,510,630. #a9e446"
+TXN001847,Mombasa,CL857,SME,2022-06-03,325682.28728244297,KES,Processed salary or bill payment at Nakuru; ID verified. #52085b
+TXN000801,Mombasa,CL251,Retail,2023-08-04,1246138.022422409,KES,High-value tranfer to China; third-party deposits observed; EDD triggered. #f27d68
+TXN000991,Eldoret,CL422,Retail,2022-04-19,315665.57285768725,KES,Large foreign remittance to Mauritius; structuring suspected; escalate to compliance team. #903447
+TXN004360,Mombasa,CL880,Retail,2022-09-19,740575.2283382762,KES,Customer activity aligned with historical patterns; ID verified. #42c49f
+TXN003665,Mombasa,CL422,Retail,2024-02-10,247580.80458133915,KES,"Transaction for rent processed at Nairobi; invoice checked. Approx amount KES 247,581. #29660b"
+TXN001716,Eldoret,CL501,Corporate,2024-01-20,2673187.9248970044,KES,team. compliance to escalate KYC; valid no China; to remittance foreign Large #7b43b3
+TXN000720,Eldoret,CL832,SME,2024-12-15,2615645.818739062,KES,Irregular pattern detected; third-party deposits observed; escalate to compliance team. #60d696
+TXN002790,Kisumu,CL696,SME,2022-05-05,905751.8271962923,KES,"905,752. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #ea0515"
+TXN001433,Mombasa,CL202,SME,2023-04-01,397061.2353551145,KES,verified. ID Thika; at payment bill or salary Processed #4e27b8
+TXN003149,Westlands,CL322,Corporate,2023-08-18,318809.95149131044,KES,Customer activity aligned with historical patterns; invoice checked. #8c7ed0
+TXN004826,Westlands,CL526,Retail,2023-03-23,633587.6338343589,KES,"Routine payment for rent at Kisumu; invoice checked. Approx amount KES 633,588. #a27f1f"
+TXN002644,Eldoret,CL832,Corporate,2023-09-30,278523.26561151154,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 278,523. #8a2447"
+TXN003174,Kisumu,CL471,SME,2024-06-13,804522.8783353802,KES,High-value transfer to UK; no valid KYC; STR recommended. #0b4c9c
+TXN002668,Nairobi_Main,CL992,Retail,2022-09-06,879061.3385037091,KES,Processed salary or bill payment at Nairobi; ID verified. #be73e0
+TXN000212,Westlands,CL881,SME,2022-05-30,4679030.962428222,KES,triggered. EDD KYC; valid no China; to transfer High-value #89de1b
+TXN001438,Kisumu,CL334,Corporate,2023-09-17,842123.9287198394,KES,"Transaction for loan repayment processed at Nairobi; invoice checked. Approx amount KES 842,124. #406f54"
+TXN001644,Eldoret,CL502,SME,2022-10-02,762109.7282789552,KES,triggered. EDD suspected; structuring detected; pattern Irregular #a6d89a
+TXN000447,Mombasa,CL878,SME,2023-02-20,850949.6093141012,KES,Large foreign remittance to Cyprus; no valid KYC; escalate to compliance team. #d6c65e
+TXN002164,Kisumu,CL531,Corporate,2022-01-27,8223336.771296788,KES,"8,223,337. KES amount Approx triggered. EDD KYC; valid no detected; pattern Irregular #019e68"
+TXN000768,Kisumu,CL509,Retail,2023-10-04,385047.9147986249,KES,Transaction for rent processed at Nairobi; ID verified. #e53b7d
+TXN004462,Westlands,CL356,Corporate,2023-07-12,1077521.1533279975,KES,Routine payment for utilities at Nairobi; invoice checked. #cdc740
+TXN001044,Nairobi_Main,CL168,SME,2024-09-03,1697446.175909312,KES,Unusual outgoing activity; third-party deposits observed; EDD triggered. #e46736
+TXN003917,Eldoret,CL842,SME,2022-04-28,876615.4916937412,KES,Routine payment for loan repayment at Nakuru; ID verified. #f9ef74
+TXN004443,Eldoret,CL656,SME,2023-11-10,961414.7205410572,KES,Transaction for rent processed at Mombasa; ID verified. #cd67d3
+TXN001797,Mombasa,CL280,Corporate,2022-09-08,342073.84036414,KES,Processed salary or bill payment at Nairobi; invoice checked. #065441
+TXN003445,Mombasa,CL328,SME,2022-01-15,268684.7513233213,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 268,685. #e5e317"
+TXN002242,Westlands,CL312,Retail,2022-01-30,11743336.43844282,KES,"11,743,336. KES amount Approx triggered. EDD observed; deposits third-party Cyprus; to remittance foreign Large #fe5f1c"
+TXN002606,Kisumu,CL284,Corporate,2023-04-21,391084.424392708,KES,Customer activity aligned with historical patterns; statements reviewed. #b63ca9
+TXN003082,Mombasa,CL768,Retail,2023-04-04,150700.72680892583,KES,Routine payment for salary at Nakuru; ID verified. #7b72cf
+TXN002946,Westlands,CL523,Retail,2023-03-22,633900.0776346717,KES,Transaction for utilities processed at Mombasa; invoice checked. #073ba9
+TXN002010,Kisumu,CL339,Retail,2024-02-25,466585.2946321121,KES,Unusual outgoing activity; third-party deposits observed; EDD triggered. #4c35c1
+TXN001466,Westlands,CL333,Corporate,2024-01-21,1922108.1819180537,KES,verified. ID Kisumu; at payment bill or salary Processed #56575f
+TXN000298,Kisumu,CL638,Retail,2023-01-12,4120874.297546346,KES,Large foreign remittance to China; no valid KYC; escalate to compliance team. #988d84
+TXN004056,Kisumu,CL683,SME,2024-10-01,7392498.626008672,KES,team. compliance to escalate KYC; valid no activity; outgoing Unusual #e57c30
+TXN001409,Mombasa,CL500,Retail,2023-09-20,501027.8104874985,KES,Routine payment for rent at Nairobi; invoice checked. #d205ce
+TXN003029,Nairobi_Main,CL335,Corporate,2023-08-26,611768.185694751,KES,Transaction for loan repayment processed at Thika; ID verified. #25ea92
+TXN002438,Nairobi_Main,CL997,Corporate,2022-06-04,439883.4277819403,KES,Processed salary or bill payment at Nairobi; statements reviewed. #ed6949
+TXN000798,Eldoret,CL199,Retail,2023-02-23,2033942.4038885352,KES,triggered. EDD KYC; valid no UK; to remittance foreign Large #0ad8b2
+TXN002059,Nairobi_Main,CL863,Retail,2022-01-23,2360138.63809242,KES,"2,360,139. KES amount Approx recommended. STR observed; deposits third-party activity; outgoing Unusual #936e8a"
+TXN002204,Kisumu,CL967,SME,2022-10-20,305741.2809531139,KES,"305,741. KES amount Approx reviewed. statements Thika; at processed repayment loan for Transaction #233418"
+TXN004714,Nairobi_Main,CL574,Corporate,2022-06-08,632158.1602869289,KES,"Processed salary or bill payment at Kisumu; statements reviewed. Approx amount KES 632,158. #32f979"
+TXN002809,Westlands,CL564,SME,2022-08-17,406492.9268855718,KES,"406,493. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #563532"
+TXN001551,Mombasa,CL883,SME,2023-10-18,517843.5118250303,KES,"Routine payment for loan repayment at Nairobi; statements reviewed. Approx amount KES 517,844. #c6befb"
+TXN002783,Westlands,CL363,SME,2022-01-29,287957.710970882,KES,"287,958. KES amount Approx verified. ID Kisumu; at payment bill or salary Processed #60b12a"
+TXN002271,Nairobi_Main,CL925,Corporate,2024-08-12,424615.78559209895,KES,"Routine payment for school fees at Kisumu; statements reviewed. Approx amount KES 424,616. #12f82c"
+TXN003303,Mombasa,CL640,Retail,2024-07-06,291260.43788505055,KES,"291,260. KES amount Approx checked. invoice Nakuru; at repayment loan for payment Routine #dbc8ec"
+TXN001355,Mombasa,CL375,Retail,2022-06-01,97369.704144213,KES,"Processed salary or bill payment at Nairobi; invoice checked. Approx amount KES 97,370. #ee40c3"
+TXN001840,Kisumu,CL409,Corporate,2023-06-19,545808.6535837131,KES,"Transaction for school fees processed at Kisumu; ID verified. Approx amount KES 545,809. #d1faa4"
+TXN003706,Nairobi_Main,CL379,Retail,2024-05-30,1236616.634240548,KES,team. compliance to escalate observed; deposits third-party Dubai; to remittance foreign Large #2458e3
+TXN003077,Eldoret,CL939,Retail,2023-08-19,3261624.940832816,KES,High-value transfer to UK; profile inconsistent with transactions; EDD triggered. #29f8bd
+TXN004924,Kisumu,CL748,Corporate,2024-09-08,816821.4087030572,KES,Processed salary or bill payment at Kisumu; invoice checked. #7610d3
+TXN000431,Kisumu,CL727,Retail,2023-12-05,143277.34058072168,KES,Transaction for school fees processed at Nakuru; statements reviewed. #beffaa
+TXN001737,Nairobi_Main,CL533,SME,2022-07-12,758408.4491204055,KES,"High-value tranfer to Mauritius; profile inconsistent with transactions; STR recommended. Approx amount KES 758,408. #632892"
+TXN000369,Nairobi_Main,CL884,Corporate,2024-01-04,347629.713745235,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 347,630. #82ac12"
+TXN000010,Nairobi_Main,CL214,SME,2023-09-22,431752.4260197167,KES,Customer activity aligned with historical patterns; ID verified. #92d614
+TXN001197,Kisumu,CL517,SME,2022-11-21,3260010.4503788417,KES,Irregular pattern detected; no valid KYC; STR recommended. #f489b0
+TXN002261,Kisumu,CL643,Corporate,2024-08-09,792546.3972717677,KES,Customer activity aligned with historical patterns; invoice checked. #240b11
+TXN002273,Kisumu,CL798,Retail,2023-01-19,2044649.983790268,KES,Large foreign remittance to Mauritius; no valid KYC; STR recommended. #ad556c
+TXN000386,Westlands,CL449,SME,2022-10-09,758599.4498688481,KES,Routine payment for salary at Kisumu; invoice checked. #1a0f6c
+TXN002496,Westlands,CL983,Retail,2024-05-24,1542528.27110605,KES,Large foreign remittance to China; profile inconsistent with transactions; escalate to compliance team. #0fcb20
+TXN002444,Mombasa,CL108,Retail,2023-09-24,1260882.8478953373,KES,"Unusual outgoing activity; third-party deposits observed; EDD triggered. Approx amount KES 1,260,883. #105706"
+TXN003318,Mombasa,CL903,Retail,2022-01-21,1309689.3103296375,KES,Routine payment for school fees at Thika; statements reviewed. #582970
+TXN003698,Kisumu,CL189,Retail,2023-10-13,1147607.2156143773,KES,"1,147,607. KES amount Approx reviewed. statements Thika; at salary for payment Routine #0e7e14"
+TXN004619,Mombasa,CL593,Retail,2022-04-20,1802640.5466039188,KES,Irregular pattern detected; profile inconsistent with transactions; STR recommended. #762f41
+TXN001686,Mombasa,CL756,SME,2023-03-31,431390.02569603536,KES,Customer activity aligned with historical patterns; statements reviewed. #e3ea2a
+TXN000046,Eldoret,CL893,SME,2024-08-10,1309852.5166587636,KES,"1,309,853. KES amount Approx team. compliance to escalate observed; deposits third-party UK; to remittance foreign Large #1836e6"
+TXN000835,Kisumu,CL181,SME,2024-11-01,703589.4608053,KES,checked. invoice Nakuru; at fees school for payment Routine #84acff
+TXN001057,Westlands,CL590,Retail,2022-03-28,1357167.4297478758,KES,"1,357,167. KES amount Approx checked. invoice Nairobi; at payment bill or salary Processed #3f7fb1"
+TXN000814,Eldoret,CL590,Retail,2023-07-09,5018592.558483223,KES,High-value transfer to China; no valid KYC; EDD triggered. #b904cf
+TXN000071,Nairobi_Main,CL923,SME,2023-08-13,7914704.447720818,KES,triggered. EDD suspected; structuring activity; outgoing Unusual #0822a7
+TXN002322,Nairobi_Main,CL269,Corporate,2024-12-05,2993624.9818002186,KES,"Large foreign remittance to China; third-party deposits observed; EDD triggered. Approx amount KES 2,993,625. #def6d0"
+TXN003876,Kisumu,CL124,Retail,2023-02-18,1161254.077107793,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 1,161,254. #04f9c5"
+TXN001196,Eldoret,CL763,Retail,2024-03-29,589042.4555413054,KES,Routine payment for school fees at Thika; invoice checked. #239d4d
+TXN001931,Nairobi_Main,CL864,SME,2022-10-14,3100361.578603546,KES,Unusual outgoing activity; structuring suspected; escalate to compliance team. #14f9a9
+TXN003769,Mombasa,CL214,Retail,2023-08-19,405532.14173307386,KES,Transaction for loan repayment processed at Nakuru; statements reviewed. #35a8f2
+TXN003894,Kisumu,CL513,Retail,2023-07-29,1392000.5550854956,KES,"Unusual outgoing activity; third-party deposits observed; EDD triggered. Approx amount KES 1,392,001. #0d207e"
+TXN000792,Westlands,CL356,Retail,2024-05-02,722234.520693185,KES,"Transaction for rent processed at Kisumu; statements reviewed. Approx amount KES 722,235. #583f97"
+TXN001857,Mombasa,CL636,Retail,2022-03-01,501303.7279459192,KES,Processed salary or bill payment at Nairobi; statements reviewed. #8a8a74
+TXN001868,Kisumu,CL422,SME,2023-08-01,742761.4529081584,KES,"742,761. KES amount Approx team. compliance to escalate KYC; valid no detected; pattern Irregular #ac7a56"
+TXN002894,Nairobi_Main,CL440,Retail,2023-07-12,852380.2829933723,KES,reviewed. statements Kisumu; at salary for payment Routine #98fd4a
+TXN003390,Eldoret,CL628,SME,2023-09-13,198015.8708883864,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 198,016. #9a01e1"
+TXN000667,Kisumu,CL568,Corporate,2022-12-02,7675881.434462084,KES,"Irregular pattern detected; third-party deposits observed; STR recommended. Approx amount KES 7,675,881. #61d371"
+TXN000834,Kisumu,CL349,SME,2023-05-13,582870.6545190713,KES,Transaction for loan repayment processed at Nairobi; statements reviewed. #8a3b29
+TXN004789,Mombasa,CL589,Corporate,2023-05-27,1701069.2431754875,KES,"Large foreign remittance to Mauritius; third-party deposits observed; STR recommended. Approx amount KES 1,701,069. #4503d2"
+TXN000595,Eldoret,CL913,Retail,2022-05-30,1252917.3136904922,KES,"Unusual outgoing activity; profile inconsistent with transactions; EDD triggered. Approx amount KES 1,252,917. #bf6564"
+TXN002821,Mombasa,CL693,SME,2023-09-15,4242410.475605088,KES,Irregular pattern detected; third-party deposits observed; escalate to compliance team. #02045f
+TXN003030,Westlands,CL478,SME,2023-04-20,104628.4573713255,KES,"104,628. KES amount Approx verified. ID Thika; at processed fees school for Transaction #8ccc09"
+TXN003328,Kisumu,CL159,Corporate,2022-06-09,278030.32156350045,KES,Processed salary or bill payment at Kisumu; invoice checked. #7b6ce9
+TXN004759,Mombasa,CL864,Retail,2022-10-27,989873.5036011402,KES,Processed salary or bill payment at Mombasa; ID verified. #7552b1
+TXN000317,Westlands,CL628,SME,2023-12-24,480610.8944123741,KES,Customer activity aligned with historical patterns; invoice checked. #cf6d1f
+TXN000722,Westlands,CL157,Corporate,2022-10-10,232412.75924180524,KES,Customer activity aligned with historical patterns; ID verified. #7604d8
+TXN004731,Kisumu,CL458,Retail,2023-02-23,576703.6981045371,KES,"576,704. KES amount Approx checked. invoice Nairobi; at payment bill or salary Processed #0eb139"
+TXN004439,Eldoret,CL604,SME,2022-06-30,3109985.8359946674,KES,"Unusual outgoing activity; third-party deposits observed; escalate to compliance team. Approx amount KES 3,109,986. #33616b"
+TXN003498,Westlands,CL301,SME,2022-04-16,525336.7004843265,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 525,337. #5ab1c7"
+TXN001782,Eldoret,CL409,SME,2024-11-10,511831.9683663467,KES,High-value transfer to Cyprus; structuring suspected; EDD triggered. #a19b72
+TXN003479,Eldoret,CL393,SME,2024-07-21,6904710.774327147,KES,"Large foreign remittance to Mauritius; structuring suspected; STR recommended. Approx amount KES 6,904,711. #a8d5aa"
+TXN000601,Eldoret,CL938,Corporate,2022-04-22,864625.0366058466,KES,"864,625. KES amount Approx triggered. EDD transactions; with inconsistent profile China; to remittance foreign Large #ada98d"
+TXN002078,Nairobi_Main,CL505,Retail,2022-03-19,541656.6578129167,KES,verified. ID Nairobi; at payment bill or salary Processed #5560e1
+TXN004091,Mombasa,CL833,Retail,2022-06-19,1614204.7864609193,KES,checked. invoice patterns; historical with aligned activity Customer #7a81e5
+TXN004432,Nairobi_Main,CL796,Corporate,2024-11-26,2431492.4983943603,KES,Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. #acc492
+TXN004697,Nairobi_Main,CL618,Corporate,2024-11-23,1455411.3218260447,KES,Processed salary or bill payment at Nairobi; ID verified. #a947c2
+TXN003613,Mombasa,CL709,Corporate,2022-08-09,787858.5493037205,KES,Routine payment for rent at Thika; invoice checked. #230465
+TXN001323,Mombasa,CL377,SME,2024-11-24,839491.0972996479,KES,"Transaction for loan repayment processed at Thika; statements reviewed. Approx amount KES 839,491. #2f3599"
+TXN000427,Westlands,CL237,Retail,2022-05-27,965340.35922796,KES,"Processed salary or bill payment at Mombasa; statements reviewed. Approx amount KES 965,340. #468e30"
+TXN001030,Westlands,CL992,Corporate,2022-01-22,1572789.128755815,KES,Unusual outgoing activity; no valid KYC; EDD triggered. #d09a49
+TXN002625,Eldoret,CL328,Corporate,2024-07-23,326844.0624437597,KES,checked. invoice Thika; at processed fees school for Transaction #fa8b00
+TXN002472,Kisumu,CL672,Corporate,2023-04-07,344486.3607294303,KES,Customer activity aligned with historical patterns; invoice checked. #446179
+TXN000833,Westlands,CL678,Corporate,2024-05-06,348900.3758535109,KES,Processed salary or bill payment at Nairobi; statements reviewed. #275db8
+TXN001132,Nairobi_Main,CL184,Retail,2022-01-18,1847969.244282598,KES,Customer activity aligned with historical patterns; statements reviewed. #4bfbb0
+TXN001783,Westlands,CL117,Corporate,2024-09-07,1016665.9699119296,KES,"Processed salary or bill payment at Nakuru; statements reviewed. Approx amount KES 1,016,666. #26cfea"
+TXN003878,Eldoret,CL775,Retail,2022-08-05,204251.95986062053,KES,"Routine payment for rent at Kisumu; statements reviewed. Approx amount KES 204,252. #b30200"
+TXN003875,Nairobi_Main,CL885,SME,2023-05-31,1375502.3036105628,KES,reviewed. statements Nakuru; at utilities for payment Routine #03d086
+TXN004050,Kisumu,CL362,Retail,2023-10-31,1020444.2449470464,KES,"Large foreign remittance to China; no valid KYC; escalate to compliance team. Approx amount KES 1,020,444. #843004"
+TXN001703,Westlands,CL229,SME,2022-01-21,1298590.3518440863,KES,"Routine payment for loan repayment at Mombasa; ID verified. Approx amount KES 1,298,590. #dc4f57"
+TXN001335,Eldoret,CL230,Retail,2022-06-12,471672.33605200576,KES,"Processed salary or bill payment at Nairobi; statements reviewed. Approx amount KES 471,672. #c2f321"
+TXN003157,Kisumu,CL735,SME,2023-03-31,644729.3725463086,KES,"Routine payment for school fees at Mombasa; invoice checked. Approx amount KES 644,729. #1e8054"
+TXN001305,Westlands,CL880,SME,2024-06-13,883263.4706956875,KES,Unusual outgoing activity; structuring suspected; STR recommended. #59c8b7
+TXN001984,Nairobi_Main,CL715,SME,2024-12-25,4675340.446519889,KES,"Unusual outgoing activity; no valid KYC; escalate to compliance team. Approx amount KES 4,675,340. #0c2eb6"
+TXN001843,Nairobi_Main,CL396,Retail,2022-09-02,637297.2274300841,KES,checked. invoice Kisumu; at processed fees school for Transaction #b933d1
+TXN003526,Westlands,CL589,Retail,2023-12-09,1659216.471717398,KES,"Irregular pattern detected; third-party deposits observed; escalate to compliance team. Approx amount KES 1,659,216. #9920d6"
+TXN003202,Eldoret,CL893,Corporate,2022-10-29,697740.7532424525,KES,Processed salary or bill payment at Mombasa; invoice checked. #6a73f7
+TXN004187,Kisumu,CL957,SME,2024-11-15,1040863.1796966228,KES,team. compliance to escalate KYC; valid no Dubai; to transfer High-value #599cdf
+TXN003329,Westlands,CL626,SME,2022-09-03,1071238.4086377516,KES,Routine payment for school fees at Thika; statements reviewed. #0685eb
+TXN001972,Kisumu,CL517,Corporate,2024-07-29,945179.8856736463,KES,verified. ID Nairobi; at payment bill or salary Processed #287be6
+TXN000272,Kisumu,CL828,Corporate,2022-03-18,5648199.484016185,KES,recommended. STR suspected; structuring activity; outgoing Unusual #a65f96
+TXN002056,Nairobi_Main,CL732,Corporate,2022-07-30,427900.2507981816,KES,Transaction for school fees processed at Nakuru; statements reviewed. #dfe3d4
+TXN001411,Eldoret,CL812,SME,2023-06-30,881483.0099215289,KES,"Transaction for salary processed at Kisumu; ID verified. Approx amount KES 881,483. #2a7bb5"
+TXN001071,Mombasa,CL791,Corporate,2024-04-15,3045990.6550799524,KES,Large foreign remittance to Cyprus; structuring suspected; escalate to compliance team. #72a793
+TXN004912,Kisumu,CL514,Retail,2022-09-11,1065527.7773879257,KES,"Routine payment for salary at Mombasa; invoice checked. Approx amount KES 1,065,528. #87450f"
+TXN002612,Kisumu,CL450,Retail,2023-04-17,1653918.0709431332,KES,Unusual outgoing activity; profile inconsistent with transactions; STR recommended. #0078b5
+TXN003410,Westlands,CL904,Corporate,2022-01-31,1080094.8108685263,KES,High-value transfer to China; profile inconsistent with transactions; STR recommended. #049aff
+TXN001854,Westlands,CL638,Retail,2024-01-04,4879357.387351903,KES,"4,879,357. KES amount Approx recommended. STR suspected; structuring detected; pattern Irregular #10be6e"
+TXN004879,Kisumu,CL996,SME,2023-09-09,1175822.2132674577,KES,Routine payment for salary at Thika; invoice checked. #82f969
+TXN004828,Kisumu,CL581,Retail,2022-04-11,1139905.6242899224,KES,"Processed salary or bill payment at Thika; statements reviewed. Approx amount KES 1,139,906. #13d91f"
+TXN004384,Westlands,CL518,Corporate,2022-08-15,390338.42516887136,KES,Processed salary or bill payment at Nakuru; ID verified. #528dda
+TXN000362,Eldoret,CL401,Corporate,2024-09-30,553417.459904441,KES,"Processed salary or bill payment at Nairobi; statements reviewed. Approx amount KES 553,417. #5470c4"
+TXN001228,Kisumu,CL155,SME,2024-04-15,1172578.0939777547,KES,Transaction for salary processed at Nairobi; invoice checked. #03db12
+TXN002554,Westlands,CL132,Retail,2023-07-10,325199.81497125304,KES,Processed salary or bill payment at Nakuru; ID verified. #5ec09d
+TXN001038,Nairobi_Main,CL770,Corporate,2023-05-31,698797.4953305492,KES,reviewed. statements Nakuru; at repayment loan for payment Routine #db18bb
+TXN000068,Eldoret,CL489,SME,2024-09-26,769229.9415670313,KES,"Customer activity aligned with historical patterns; invoice checked. Approx amount KES 769,230. #4e8402"
+TXN003419,Westlands,CL682,Retail,2022-05-02,411466.1377052065,KES,verified. ID patterns; historical with aligned activity Customer #152ee8
+TXN002636,Eldoret,CL728,SME,2023-06-10,682450.2529168198,KES,verified. ID Mombasa; at rent for payment Routine #216862
+TXN003941,Nairobi_Main,CL457,Corporate,2022-02-12,1412900.8974767,KES,"Transaction for utilities processed at Nakuru; statements reviewed. Approx amount KES 1,412,901. #eedca4"
+TXN004528,Kisumu,CL710,SME,2022-04-10,575402.5943190667,KES,"Routine payment for rent at Nairobi; invoice checked. Approx amount KES 575,403. #d1cc48"
+TXN004199,Mombasa,CL370,Retail,2022-01-02,3315309.2508679046,KES,"Irregular pattern detected; third-party deposits observed; escalate to compliance team. Approx amount KES 3,315,309. #9875cd"
+TXN004156,Mombasa,CL566,Retail,2023-06-29,3184745.746237502,KES,"Large foreign remittance to UK; no valid KYC; escalate to compliance team. Approx amount KES 3,184,746. #6521bb"
+TXN001320,Nairobi_Main,CL360,SME,2024-11-12,621353.1926249415,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 621,353. #c29c6b"
+TXN004778,Nairobi_Main,CL999,SME,2024-03-01,739889.798423713,KES,Large foreign remittance to Mauritius; no valid KYC; escalate to compliance team. #dc7d2c
+TXN004862,Eldoret,CL691,Corporate,2022-10-06,1068415.545389194,KES,"High-value transfer to Hong Kong; structuring suspected; STR recommended. Approx amount KES 1,068,416. #962156"
+TXN000247,Kisumu,CL677,Retail,2022-11-06,378007.5837376185,KES,"Processed salary or bill payment at Kisumu; invoice checked. Approx amount KES 378,008. #a88c6f"
+TXN004398,Mombasa,CL567,Retail,2023-12-31,5241144.524879335,KES,"High-value transfer to China; no valid KYC; STR recommended. Approx amount KES 5,241,145. #f518fc"
+TXN003091,Westlands,CL783,Retail,2024-07-31,1016421.42228966,KES,reviewed. statements Thika; at processed repayment loan for Transaction #1bbff0
+TXN002709,Nairobi_Main,CL599,SME,2024-01-26,8097549.337580336,KES,"Large foreign remittance to Dubai; profile inconsistent with transactions; STR recommended. Approx amount KES 8,097,549. #8a9025"
+TXN001327,Mombasa,CL826,Corporate,2022-09-15,539899.7272363753,KES,Processed salary or bill payment at Mombasa; statements reviewed. #005302
+TXN003814,Nairobi_Main,CL773,Retail,2023-03-09,635362.7875689826,KES,Large foreign remittance to Cyprus; profile inconsistent with transactions; STR recommended. #9f91a9
+TXN004155,Eldoret,CL486,Retail,2023-06-09,512988.26443061343,KES,Processed salary or bill payment at Nairobi; ID verified. #8630aa
+TXN000660,Eldoret,CL166,Corporate,2023-12-04,399686.8302955916,KES,reviewed. statements Thika; at processed fees school for Transaction #828e3f
+TXN000048,Westlands,CL187,Retail,2024-04-12,2701334.479695889,KES,"Irregular pattern detected; profile inconsistent with transactions; EDD triggered. Approx amount KES 2,701,334. #72fa90"
+TXN003714,Nairobi_Main,CL927,SME,2024-01-30,1213289.9402206235,KES,Routine payment for school fees at Nakuru; statements reviewed. #3c9a2f
+TXN003023,Eldoret,CL701,Retail,2022-09-24,5601307.781379741,KES,"Large foreign remittance to Cyprus; profile inconsistent with transactions; STR recommended. Approx amount KES 5,601,308. #10d4d8"
+TXN001166,Kisumu,CL432,SME,2024-02-15,1573780.072472804,KES,"Transaction for salary processed at Nakuru; ID verified. Approx amount KES 1,573,780. #9f57e2"
+TXN004624,Mombasa,CL171,Corporate,2022-08-10,766336.7335749436,KES,"Routine payment for utilities at Mombasa; statements reviewed. Approx amount KES 766,337. #070806"
+TXN002155,Kisumu,CL430,Retail,2022-06-08,387917.13040854153,KES,Customer activity aligned with historical patterns; invoice checked. #ed2d2c
+TXN002757,Kisumu,CL128,SME,2023-02-05,351232.1050230529,KES,"Transaction for salary processed at Thika; ID verified. Approx amount KES 351,232. #09c828"
+TXN002746,Nairobi_Main,CL832,Corporate,2024-07-15,707098.5694316687,KES,"Processed salary or bill payment at Kisumu; ID verified. Approx amount KES 707,099. #384a99"
+TXN000168,Kisumu,CL363,SME,2024-10-01,1589850.74003386,KES,"Unusual outgoing activity; structuring suspected; STR recommended. Approx amount KES 1,589,851. #14c39b"
+TXN003291,Mombasa,CL911,SME,2023-07-07,104666.45358681474,KES,Customer activity aligned with historical patterns; invoice checked. #e2d0ea
+TXN000967,Nairobi_Main,CL919,Corporate,2024-01-13,10027545.254143342,KES,Irregular pattern detected; structuring suspected; escalate to compliance team. #c7d957
+TXN000527,Nairobi_Main,CL573,Retail,2023-06-21,617639.0242704962,KES,"617,639. KES amount Approx verified. ID Thika; at payment bill or salary Processed #f52207"
+TXN003381,Mombasa,CL685,SME,2022-09-05,5789136.690602371,KES,"High-value transfer to Hong Kong; profile inconsistent with transactions; EDD triggered. Approx amount KES 5,789,137. #c00296"
+TXN002241,Westlands,CL827,Corporate,2024-05-21,3355031.382941978,KES,"Unusual outgoing activity; no valid KYC; STR recommended. Approx amount KES 3,355,031. #83f30a"
+TXN003966,Eldoret,CL893,Retail,2024-09-23,742499.1417753714,KES,checked. invoice Nairobi; at rent for payment Routine #7774dd
+TXN000587,Nairobi_Main,CL651,Retail,2024-06-30,329426.63130385533,KES,Transaction for salary processed at Mombasa; invoice checked. #5c4216
+TXN003885,Nairobi_Main,CL597,Retail,2022-10-04,869265.2874533104,KES,Customer activity aligned with historical patterns; statements reviewed. #569502
+TXN003765,Nairobi_Main,CL674,Corporate,2022-07-01,604604.1808392147,KES,Routine payment for loan repayment at Nairobi; ID verified. #0b51eb
+TXN002733,Kisumu,CL315,Corporate,2024-04-16,322587.5826795635,KES,Processed salary or bill payment at Kisumu; statements reviewed. #8815c4
+TXN004238,Eldoret,CL917,SME,2023-07-25,7333386.175938326,KES,"7,333,386. KES amount Approx team. compliance to escalate KYC; valid no activity; outgoing Unusual #4c6a4f"
+TXN000334,Eldoret,CL982,Retail,2024-09-14,1181840.838393974,KES,reviewed. statements Nakuru; at utilities for payment Routine #ebe153
+TXN001029,Nairobi_Main,CL764,Retail,2023-09-20,291864.5793600046,KES,"Routine payment for rent at Mombasa; statements reviewed. Approx amount KES 291,865. #005cd3"
+TXN001377,Mombasa,CL263,Retail,2023-01-10,5055130.462234381,KES,"Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 5,055,130. #d323cf"
+TXN000182,Nairobi_Main,CL238,SME,2022-01-14,756302.5335342777,KES,"756,303. KES amount Approx triggered. EDD KYC; valid no Cyprus; to remittance foreign Large #c4dd7b"
+TXN003163,Eldoret,CL828,Retail,2022-03-08,1061145.6324104357,KES,"Large foreign remittance to Dubai; profile inconsistent with transactions; STR recommended. Approx amount KES 1,061,146. #7805e0"
+TXN002280,Westlands,CL337,Corporate,2022-10-08,419481.1813161215,KES,"Unusual outgoing activity; profile inconsistent with transactions; EDD triggered. Approx amount KES 419,481. #f80783"
+TXN003967,Eldoret,CL363,Retail,2024-12-01,159093.2035851727,KES,"Processed salary or bill payment at Nairobi; invoice checked. Approx amount KES 159,093. #ab73e5"
+TXN000204,Kisumu,CL948,SME,2023-11-23,227665.20790746843,KES,Transaction for utilities processed at Kisumu; ID verified. #80f431
+TXN002601,Eldoret,CL869,Corporate,2024-10-07,921536.8202672566,KES,"Transaction for utilities processed at Nakuru; invoice checked. Approx amount KES 921,537. #42c220"
+TXN002131,Kisumu,CL937,Corporate,2023-09-05,605452.6628980322,KES,"605,453. KES amount Approx checked. invoice Kisumu; at payment bill or salary Processed #9975eb"
+TXN000156,Nairobi_Main,CL654,Retail,2022-05-22,2204568.0628304174,KES,Routine payment for salary at Nakuru; invoice checked. #3abb98
+TXN003662,Nairobi_Main,CL483,Corporate,2022-01-03,2774590.43627964,KES,Irregular pattern detected; no valid KYC; escalate to compliance team. #b22f22
+TXN003118,Nairobi_Main,CL410,Retail,2023-12-16,1244314.070285344,KES,"Routine payment for loan repayment at Thika; statements reviewed. Approx amount KES 1,244,314. #d718df"
+TXN001216,Nairobi_Main,CL720,Retail,2024-11-05,1081498.825281036,KES,"High-value transfer to Hong Kong; structuring suspected; escalate to compliance team. Approx amount KES 1,081,499. #6205e4"
+TXN001818,Mombasa,CL243,Corporate,2022-02-26,515147.6475457994,KES,"Routine payment for salary at Nairobi; invoice checked. Approx amount KES 515,148. #8a9d8c"
+TXN001000,Eldoret,CL193,Corporate,2023-10-19,1590483.801538005,KES,Transaction for rent processed at Nairobi; invoice checked. #4c70d5
+TXN002392,Eldoret,CL622,Retail,2024-10-25,209489.63065453025,KES,Routine payment for rent at Nakuru; invoice checked. #3828e2
+TXN000865,Mombasa,CL816,Retail,2024-02-09,1398720.7069140046,KES,Irregular pattern detected; third-party deposits observed; escalate to compliance team. #bc8cab
+TXN002705,Westlands,CL956,Retail,2023-01-20,1241166.1409018754,KES,Processed salary or bill payment at Thika; ID verified. #57892a
+TXN000631,Nairobi_Main,CL445,Retail,2022-05-10,1742245.268615846,KES,Transaction for salary processed at Nakuru; ID verified. #f04691
+TXN001879,Mombasa,CL168,Retail,2022-02-24,339724.7308237492,KES,Processed salary or bill payment at Nakuru; invoice checked. #c49aad
+TXN002548,Kisumu,CL557,Retail,2022-11-14,1220740.6306291537,KES,Customer activity aligned with historical patterns; statements reviewed. #83c83e
+TXN003968,Nairobi_Main,CL942,Corporate,2022-03-06,2447781.2924958062,KES,Transaction for utilities processed at Thika; invoice checked. #bebd7e
+TXN002371,Mombasa,CL861,Retail,2024-03-10,1210496.825828893,KES,Irregular pattern detected; third-party deposits observed; escalate to compliance team. #3b54bc
+TXN002934,Mombasa,CL888,SME,2023-05-24,1102656.4210810063,KES,Transaction for school fees processed at Kisumu; invoice checked. #5ee999
+TXN003036,Kisumu,CL853,Retail,2023-10-02,469871.98272292194,KES,Processed salary or bill payment at Mombasa; ID verified. #5fd787
+TXN001156,Kisumu,CL780,Retail,2023-06-13,1067323.5197494149,KES,"High-value transfer to UK; profile inconsistent with transactions; STR recommended. Approx amount KES 1,067,324. #733a87"
+TXN001350,Nairobi_Main,CL935,Retail,2022-01-31,263266.1776734744,KES,Customer activity aligned with historical patterns; statements reviewed. #828517
+TXN004532,Nairobi_Main,CL862,SME,2023-09-09,847954.3779189844,KES,"Transaction for rent processed at Nairobi; invoice checked. Approx amount KES 847,954. #17104e"
+TXN004139,Nairobi_Main,CL331,SME,2022-03-31,1990321.7620341447,KES,triggered. EDD KYC; valid no China; to transfer High-value #0b2080
+TXN002396,Nairobi_Main,CL837,SME,2023-03-06,313231.5996258473,KES,checked. invoice Mombasa; at salary for payment Routine #e14ee9
+TXN003575,Kisumu,CL928,SME,2022-05-25,730050.5797194198,KES,Transaction for salary processed at Kisumu; ID verified. #8ac862
+TXN002984,Nairobi_Main,CL772,Retail,2023-05-22,187508.3758584976,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 187,508. #935a83"
+TXN001012,Nairobi_Main,CL330,Retail,2023-02-03,12835621.396864004,KES,"Large foreign remittance to Hong Kong; profile inconsistent with transactions; EDD triggered. Approx amount KES 12,835,621. #9050dc"
+TXN002871,Mombasa,CL289,SME,2023-05-08,2995279.277795864,KES,"Large foreign remittance to Dubai; structuring suspected; escalate to compliance team. Approx amount KES 2,995,279. #6dcf1c"
+TXN004875,Mombasa,CL408,Corporate,2024-08-02,795692.6291449299,KES,team. compliance to escalate suspected; structuring UK; to remittance foreign Large #6b77ae
+TXN004515,Nairobi_Main,CL567,Retail,2022-06-26,315221.97636085993,KES,verified. ID Mombasa; at utilities for payment Routine #9e87e1
+TXN000951,Mombasa,CL303,Retail,2024-02-19,2721924.85932703,KES,Unusual outgoing activity; third-party deposits observed; STR recommended. #6d7f07
+TXN000971,Eldoret,CL788,Retail,2023-02-26,370742.80001867854,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 370,743. #4c850b"
+TXN001804,Nairobi_Main,CL196,SME,2024-07-15,391278.2768678742,KES,High-value transfer to Dubai; structuring suspected; escalate to compliance team. #4e57cf
+TXN001152,Kisumu,CL130,SME,2024-03-08,381828.4781279994,KES,"Transaction for salary processed at Mombasa; ID verified. Approx amount KES 381,828. #0a0927"
+TXN003529,Nairobi_Main,CL571,Corporate,2022-06-12,769750.0105747053,KES,"Unusual outgoing activity; third-party deposits observed; EDD triggered. Approx amount KES 769,750. #814a6e"
+TXN002318,Nairobi_Main,CL234,Corporate,2022-09-25,404007.5206489744,KES,Processed salary or bill payment at Nakuru; invoice checked. #e9a381
+TXN001403,Nairobi_Main,CL349,SME,2023-02-02,987831.403033442,KES,"Routine payment for school fees at Mombasa; ID verified. Approx amount KES 987,831. #5f7a7e"
+TXN003083,Nairobi_Main,CL754,SME,2024-05-27,273202.7511723649,KES,"Routine payment for utilities at Mombasa; statements reviewed. Approx amount KES 273,203. #3cd65a"
+TXN001518,Nairobi_Main,CL364,SME,2023-09-22,291579.8639227787,KES,"291,580. KES amount Approx verified. ID patterns; historical with aligned activity Customer #911528"
+TXN002848,Kisumu,CL495,Retail,2023-10-09,1147288.9304492776,KES,"Unusual outgoing activity; no valid KYC; escalate to compliance team. Approx amount KES 1,147,289. #dcceea"
+TXN000031,Mombasa,CL813,SME,2022-09-18,2183838.6374289105,KES,Routine payment for loan repayment at Kisumu; statements reviewed. #0e35a3
+TXN004750,Eldoret,CL976,Corporate,2022-10-01,1293359.2775498033,KES,"Transaction for loan repayment processed at Mombasa; ID verified. Approx amount KES 1,293,359. #4cdbd9"
+TXN003945,Eldoret,CL211,Retail,2023-05-26,4511437.328477274,KES,High-value transfer to Dubai; no valid KYC; STR recommended. #686ae2
+TXN001672,Kisumu,CL999,SME,2023-06-10,1393623.385891482,KES,"Large foreign remittance to Mauritius; structuring suspected; EDD triggered. Approx amount KES 1,393,623. #6ce89a"
+TXN004089,Kisumu,CL478,Corporate,2022-12-04,455361.38016610703,KES,"455,361. KES amount Approx reviewed. statements Nairobi; at processed utilities for Transaction #75071a"
+TXN003912,Kisumu,CL215,Corporate,2024-07-30,4918551.377942635,KES,"High-value transfer to Dubai; no valid KYC; STR recommended. Approx amount KES 4,918,551. #942a04"
+TXN003515,Nairobi_Main,CL998,Corporate,2022-07-16,3041579.814663958,KES,High-value transfer to Cyprus; structuring suspected; EDD triggered. #62fdad
+TXN002662,Westlands,CL939,Corporate,2024-07-24,907146.9673836236,KES,"Processed salary or bill payment at Nakuru; invoice checked. Approx amount KES 907,147. #6808bc"
+TXN004399,Kisumu,CL758,SME,2024-10-08,1155393.98912657,KES,Routine payment for loan repayment at Nairobi; ID verified. #580047
+TXN003446,Westlands,CL410,SME,2024-04-01,1793432.7084552771,KES,"High-value transfer to China; third-party deposits observed; escalate to compliance team. Approx amount KES 1,793,433. #2a3149"
+TXN004775,Eldoret,CL374,SME,2024-04-10,4010260.836535365,KES,Irregular pattern detected; third-party deposits observed; escalate to compliance team. #8fa430
+TXN003517,Westlands,CL301,Corporate,2024-07-29,803775.882749113,KES,reviewed. statements patterns; historical with aligned activity Customer #be072f
+TXN000786,Mombasa,CL468,Retail,2022-07-02,1070616.8205886942,KES,verified. ID Nakuru; at processed fees school for Transaction #3c338b
+TXN000518,Westlands,CL341,Retail,2024-10-21,2168180.8910372243,KES,High-value transfer to Mauritius; profile inconsistent with transactions; STR recommended. #d7d0df
+TXN002487,Mombasa,CL862,Retail,2023-12-16,578510.5992766595,KES,Routine payment for rent at Thika; invoice checked. #330737
+TXN004627,Westlands,CL328,SME,2022-10-28,1025127.94872495,KES,recommended. STR observed; deposits third-party Mauritius; to remittance foreign Large #eed27f
+TXN004073,Westlands,CL831,SME,2024-04-07,539591.038034613,KES,"539,591. KES amount Approx checked. invoice Nakuru; at utilities for payment Routine #b3dd10"
+TXN003440,Eldoret,CL159,SME,2022-06-21,2260211.787161849,KES,"High-value tranfer to Mauritius; third-party deposits observed; EDD triggered. Approx amount KES 2,260,212. #ddf292"
+TXN002999,Eldoret,CL499,Retail,2024-06-10,535694.1523058735,KES,"Routine payment for rent at Nakuru; ID verified. Approx amount KES 535,694. #d56c68"
+TXN000206,Nairobi_Main,CL480,Corporate,2022-12-05,856427.2779291855,KES,"Processed salary or bill payment at Mombasa; statements reviewed. Approx amount KES 856,427. #f78d07"
+TXN004043,Eldoret,CL335,SME,2024-10-18,736565.4531601304,KES,Routine payment for utilities at Thika; statements reviewed. #ea0946
+TXN004083,Westlands,CL698,SME,2022-06-08,354875.9264514215,KES,High-value transfer to Mauritius; profile inconsistent with transactions; escalate to compliance team. #335585
+TXN003540,Nairobi_Main,CL891,Corporate,2023-07-05,752830.900046093,KES,Transaction for salary processed at Thika; statements reviewed. #2a7b8a
+TXN003970,Westlands,CL831,Retail,2024-07-24,452237.7330842292,KES,reviewed. statements Nairobi; at processed repayment loan for Transaction #0e75d2
+TXN000100,Mombasa,CL138,Retail,2024-01-26,554690.9174782968,KES,"High-value transfer to Cyprus; third-party deposits observed; escalate to compliance team. Approx amount KES 554,691. #b65ab3"
+TXN003891,Mombasa,CL482,Retail,2023-04-02,3349475.039610511,KES,"3,349,475. KES amount Approx recommended. STR transactions; with inconsistent profile detected; pattern Irregular #6b8434"
+TXN001948,Mombasa,CL889,Corporate,2023-03-24,5462653.538333007,KES,Unusual outgoing activity; profile inconsistent with transactions; escalate to compliance team. #c6e460
+TXN000191,Kisumu,CL673,SME,2024-08-04,4285547.67889568,KES,Large foreign remittance to UK; no valid KYC; escalate to compliance team. #a7050b
+TXN001760,Eldoret,CL713,Corporate,2023-07-10,8675105.771771291,KES,"High-value transfer to Cyprus; no valid KYC; escalate to compliance team. Approx amount KES 8,675,106. #77298d"
+TXN002903,Mombasa,CL342,SME,2022-03-03,2667248.1995055047,KES,Large foreign remittance to Hong Kong; third-party deposits observed; STR recommended. #be58a9
+TXN004908,Westlands,CL767,Retail,2022-09-13,720348.6043353397,KES,Routine payment for rent at Kisumu; statements reviewed. #9677b6
+TXN003457,Mombasa,CL144,Retail,2022-01-17,458900.8683174409,KES,verified. ID Thika; at payment bill or salary Processed #4824ec
+TXN002222,Westlands,CL944,SME,2024-08-05,1005438.55763765,KES,Processed salary or bill payment at Nakuru; invoice checked. #795044
+TXN002129,Mombasa,CL370,SME,2022-08-27,987300.7744344882,KES,"Transaction for school fees processed at Mombasa; ID verified. Approx amount KES 987,301. #c80707"
+TXN004693,Eldoret,CL878,SME,2023-01-23,3185781.326349571,KES,"Large foreign remittance to Mauritius; no valid KYC; escalate to compliance team. Approx amount KES 3,185,781. #f39ff8"
+TXN000124,Kisumu,CL783,SME,2022-05-13,900585.1211397182,KES,"900,585. KES amount Approx verified. ID Mombasa; at utilities for payment Routine #1d3b52"
+TXN003069,Kisumu,CL183,Corporate,2023-09-09,969858.9510152232,KES,"969,859. KES amount Approx verified. ID Nairobi; at utilities for payment Routine #43594b"
+TXN003625,Eldoret,CL203,Retail,2024-03-02,307575.2642019143,KES,checked. invoice Thika; at salary for payment Routine #66230a
+TXN002787,Kisumu,CL936,Retail,2022-04-25,617537.4554074964,KES,"High-value tranfer to Dubai; profile inconsistent with transactions; escalate to compliance team. Approx amount KES 617,537. #e10236"
+TXN004197,Nairobi_Main,CL165,SME,2023-09-15,199595.1567680708,KES,Processed salary or bill payment at Mombasa; ID verified. #d6f0db
+TXN004404,Westlands,CL727,Retail,2024-11-29,547095.0871077549,KES,checked. invoice patterns; historical with aligned activity Customer #957d5b
+TXN002893,Westlands,CL330,Retail,2024-12-06,694382.023252133,KES,"Customer activity aligned with historical patterns; statements reviewed. Approx amount KES 694,382. #685899"
+TXN001549,Eldoret,CL993,Retail,2023-06-24,1409651.7650639445,KES,"1,409,652. KES amount Approx verified. ID Nakuru; at processed fees school for Transaction #dbc1e2"
+TXN000258,Kisumu,CL128,SME,2022-04-12,814780.1487541237,KES,"814,780. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #9a3fe1"
+TXN000738,Mombasa,CL211,Retail,2023-01-05,1916156.876260336,KES,Processed salary or bill payment at Mombasa; invoice checked. #af46f1
+TXN003882,Eldoret,CL556,SME,2024-02-23,377220.7258708729,KES,High-value transfer to Dubai; third-party deposits observed; EDD triggered. #c8a7c1
+TXN003490,Westlands,CL395,SME,2023-10-16,1477237.598454523,KES,triggered. EDD transactions; with inconsistent profile detected; pattern Irregular #cbaf7e
+TXN002253,Eldoret,CL686,Corporate,2024-05-01,592163.3095250363,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 592,163. #234cf3"
+TXN004686,Eldoret,CL858,Retail,2023-11-14,968473.9625209292,KES,High-value transfer to Hong Kong; no valid KYC; STR recommended. #d4db1c
+TXN000066,Mombasa,CL495,Corporate,2022-11-08,567838.8342333109,KES,"Routine payment for school fees at Mombasa; statements reviewed. Approx amount KES 567,839. #e42513"
+TXN004036,Kisumu,CL594,Corporate,2023-08-26,857573.8365026222,KES,"Routine payment for salary at Nakuru; ID verified. Approx amount KES 857,574. #95a04b"
+TXN004873,Mombasa,CL904,Corporate,2023-06-08,702926.5335944768,KES,"702,927. KES amount Approx reviewed. statements patterns; historical with aligned activity Customer #b2c92f"
+TXN000288,Eldoret,CL226,SME,2024-07-25,2553288.4663317213,KES,recommended. STR observed; deposits third-party activity; outgoing Unusual #0b1b65
+TXN000260,Mombasa,CL972,SME,2024-07-29,312121.76712377125,KES,Transaction for school fees processed at Kisumu; statements reviewed. #7f114f
+TXN001506,Mombasa,CL596,Retail,2022-01-08,972350.1091819528,KES,Processed salary or bill payment at Thika; invoice checked. #b834cc
+TXN002508,Kisumu,CL104,Retail,2023-08-22,231943.23492306672,KES,"Customer activity aligned with historical patterns; ID verified. Approx amount KES 231,943. #0c8cb2"
+TXN002942,Westlands,CL498,Retail,2022-11-01,935031.8357676947,KES,Routine payment for loan repayment at Thika; statements reviewed. #7746e4
+TXN002228,Eldoret,CL973,SME,2024-09-06,369576.87301312096,KES,Irregular pattern detected; structuring suspected; escalate to compliance team. #d0bc6b
+TXN002541,Mombasa,CL832,Retail,2024-01-26,638799.2877826047,KES,"638,799. KES amount Approx recommended. STR suspected; structuring Mauritius; to remittance foreign Large #6aeecc"
+TXN001699,Westlands,CL238,Corporate,2022-04-14,677190.0575015503,KES,"Processed salary or bill payment at Thika; ID verified. Approx amount KES 677,190. #4a4225"
+TXN004320,Westlands,CL102,Corporate,2023-07-11,588945.2211938389,KES,Processed salary or bill payment at Thika; statements reviewed. #7daee2
+TXN001519,Nairobi_Main,CL968,Retail,2024-12-30,2186614.0215112097,KES,Processed salary or bill payment at Thika; invoice checked. #1c6e96
