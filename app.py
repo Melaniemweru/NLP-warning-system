@@ -1,68 +1,187 @@
 import streamlit as st
-from src.models.baseline_model import predict_narrative
-from src.models.finbert_predict import predict_finbert
-
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-# Load original FinBERT
+from src.models.baseline_model import predict_narrative
+
+
+# ===========================================================
+# 1. LOAD ORIGINAL FINBERT (cached)
+# ===========================================================
 @st.cache_resource
 def load_finbert():
     MODEL_NAME = "yiyanghkust/finbert-tone"
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
+    model.eval()
     return tokenizer, model
 
-tokenizer, model = load_finbert()
+tokenizer, finbert_model = load_finbert()
+
 
 def predict_finbert(text):
     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
-    outputs = model(**inputs)
-    probs = torch.softmax(outputs.logits, dim=1).detach().numpy()[0]
-    compliant_prob = probs[0]
-    non_compliant_prob = probs[1]
+    outputs = finbert_model(**inputs)
 
-    label = "Non-Compliant" if non_compliant_prob > 0.5 else "Compliant"
+    probs = torch.softmax(outputs.logits, dim=1).detach().numpy()[0]
+    prob_compliant = probs[0]
+    prob_non_compliant = probs[1]
+
+    label = "Non-Compliant" if prob_non_compliant > 0.5 else "Compliant"
 
     return {
         "prediction": label,
-        "prob_non_compliant": float(non_compliant_prob)
+        "prob_non_compliant": float(prob_non_compliant)
     }
 
-# ---------------- UI -------------------
 
-st.set_page_config(page_title="AML Warning System", layout="wide")
-
-st.title("🔍 AML Narrative Classification System")
-st.write(
-    "Enter a transaction narrative below to classify it as "
-    "**Compliant** or **Non-Compliant** using TF-IDF and FinBERT."
+# ===========================================================
+# 2. STREAMLIT PAGE CONFIG
+# ===========================================================
+st.set_page_config(
+    page_title="AML Narrative Classification System",
+    layout="wide",
+    page_icon="🔍"
 )
 
-text_input = st.text_area("Transaction Narrative", height=200)
 
-if st.button("Classify"):
-    if not text_input.strip():
-        st.warning("Please enter text.")
+# ===========================================================
+# 3. CUSTOM STYLING
+# ===========================================================
+st.markdown("""
+    <style>
+        .title {
+            font-size: 42px !important;
+            color: #4F8BF9;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 0px;
+        }
+        .subtitle {
+            font-size: 19px !important;
+            color: #2E4053;
+            text-align: center;
+            margin-top: -10px;
+        }
+        .result-box {
+            background-color: #F4F6F7;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 6px solid #4F8BF9;
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 22px;
+            font-weight: 600;
+            color: #4F8BF9;
+            margin-top: 20px;
+        }
+        .footer {
+            font-size: 13px;
+            text-align: center;
+            margin-top: 50px;
+            color: #7D7D7D;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+
+# ===========================================================
+# 4. SIDEBAR NAVIGATION
+# ===========================================================
+st.sidebar.title("📌 Navigation Menu")
+page = st.sidebar.radio(
+    "Go to:",
+    ["🏠 Home", "📝 Model Input", "📊 Prediction Page"]
+)
+
+
+# ===========================================================
+# 5. HOME PAGE
+# ===========================================================
+if page == "🏠 Home":
+    st.markdown('<p class="title">🔍 AML Narrative Classification System</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Automated Compliance Screening Using TF-IDF & FinBERT</p>', unsafe_allow_html=True)
+    st.markdown("---")
+
+    st.markdown("""
+    ### ⭐ Overview  
+    This system analyzes transaction narratives and predicts whether they are **Compliant** or **Non-Compliant** using:
+
+    - 🧠 **Baseline ML Model** (TF-IDF + Logistic Regression)  
+    - 🤖 **FinBERT Transformer Model** (Finance-trained NLP)
+
+    ### ⭐ Features
+    - Real-time text classification  
+    - Dual-model comparison  
+    - Probability scoring  
+    - Modern, user-friendly interface  
+    - Streamlit deployment  
+    """)
+
+    st.markdown("---")
+    st.markdown('<p class="footer">AML Automation System • Powered by Machine Learning & NLP</p>', unsafe_allow_html=True)
+
+
+# ===========================================================
+# 6. MODEL INPUT PAGE
+# ===========================================================
+elif page == "📝 Model Input":
+
+    st.markdown('<p class="title">📝 Enter Narrative for Screening</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Your text will be analyzed by both models.</p>', unsafe_allow_html=True)
+    st.markdown("---")
+
+    user_text = st.text_area(
+        "Enter Transaction Narrative:",
+        height=200,
+        placeholder="Example: Large transfer to Dubai with missing KYC documents..."
+    )
+
+    if st.button("Save Narrative"):
+        if user_text.strip() != "":
+            st.session_state["user_text"] = user_text
+            st.success("Narrative saved! Go to 'Prediction Page' to classify it.")
+        else:
+            st.warning("Please enter text before saving.")
+
+    st.markdown('<p class="footer">Input Page • AML System</p>', unsafe_allow_html=True)
+
+
+# ===========================================================
+# 7. PREDICTION PAGE
+# ===========================================================
+elif page == "📊 Prediction Page":
+
+    st.markdown('<p class="title">📊 Prediction Results</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Results from Baseline & FinBERT Models</p>', unsafe_allow_html=True)
+    st.markdown("---")
+
+    if "user_text" not in st.session_state:
+        st.warning("Please go to 'Model Input' and enter a narrative first.")
     else:
-        baseline = predict_narrative(text_input)
-        finbert = predict_finbert(text_input)
+        text = st.session_state["user_text"]
 
-        st.subheader("📌 Baseline Model (TF-IDF + Logistic Regression)")
-        st.write("Prediction:", baseline["prediction"])
-        st.write(
-            "Probability of Non-Compliant:",
-            round(baseline["prob_non_compliant"], 4),
-        )
+        with st.spinner("Running both models..."):
+            baseline = predict_narrative(text)
+            finbert = predict_finbert(text)
 
-        st.markdown("---")
+        col1, col2 = st.columns(2)
 
-        st.subheader("📌 FinBERT Model (Original FinBERT – Non-Fine-Tuned)")
-        st.write("Prediction:", finbert["prediction"])
-        st.write(
-            "Probability of Non-Compliant:",
-            round(finbert["prob_non_compliant"], 4),
-        )
+        with col1:
+            st.markdown("### 🧠 Baseline Model")
+            st.markdown('<div class="result-box">', unsafe_allow_html=True)
+            st.write("**Prediction:**", baseline["prediction"])
+            st.write("**Non-Compliant Probability:**", round(baseline["prob_non_compliant"], 4))
+            st.markdown('</div>', unsafe_allow_html=True)
 
-        st.markdown("---")
-        st.success("Classification complete.")
+        with col2:
+            st.markdown("### 🤖 FinBERT Model (Original)")
+            st.markdown('<div class="result-box">', unsafe_allow_html=True)
+            st.write("**Prediction:**", finbert["prediction"])
+            st.write("**Non-Compliant Probability:**", round(finbert["prob_non_compliant"], 4))
+            st.markdown('</div>', unsafe_allow_html=True)
+
+        st.success("🎉 Classification complete!")
+
+    st.markdown('<p class="footer">Prediction Page • AML System</p>', unsafe_allow_html=True)
