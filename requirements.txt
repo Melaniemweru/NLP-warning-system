@@ -2,10 +2,22 @@ streamlit
 pandas
 numpy
 scikit-learn
-torch
-transformers
 joblib
+
+# HuggingFace & Torch
+transformers
+tokenizers
+sentencepiece
+regex
+
+# CPU-only PyTorch
+torch==2.1.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Fix protobuf compatibility for transformers
 protobuf==3.20.3
+
+
 
 
 
