@@ -1,5 +1,7 @@
 import streamlit as st
 from src.models.baseline_model import predict_narrative
+from src.models.finbert_predict import predict_finbert
+
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
