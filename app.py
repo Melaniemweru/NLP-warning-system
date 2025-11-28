@@ -2,9 +2,6 @@ import streamlit as st
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-from src.models.baseline_model import predict_narrative
-
-
 # ===========================================================
 # 1. LOAD ORIGINAL FINBERT (cached)
 # ===========================================================
@@ -101,26 +98,25 @@ page = st.sidebar.radio(
 # ===========================================================
 if page == "🏠 Home":
     st.markdown('<p class="title">🔍 AML Narrative Classification System</p>', unsafe_allow_html=True)
-    st.markdown('<p class="subtitle">Automated Compliance Screening Using TF-IDF & FinBERT</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Automated Compliance Screening Using FinBERT</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     st.markdown("""
     ### ⭐ Overview  
     This system analyzes transaction narratives and predicts whether they are **Compliant** or **Non-Compliant** using:
 
-    - 🧠 **Baseline ML Model** (TF-IDF + Logistic Regression)  
-    - 🤖 **FinBERT Transformer Model** (Finance-trained NLP)
+    - 🤖 **FinBERT Transformer Model**  
+      Pre-trained on financial text for high-accuracy compliance interpretation.
 
     ### ⭐ Features
     - Real-time text classification  
-    - Dual-model comparison  
     - Probability scoring  
-    - Modern, user-friendly interface  
-    - Streamlit deployment  
+    - Clean, user-friendly interface  
+    - Deployed on Streamlit Cloud  
     """)
 
     st.markdown("---")
-    st.markdown('<p class="footer">AML Automation System • Powered by Machine Learning & NLP</p>', unsafe_allow_html=True)
+    st.markdown('<p class="footer">AML Automation System • Powered by FinBERT NLP</p>', unsafe_allow_html=True)
 
 
 # ===========================================================
@@ -129,7 +125,7 @@ if page == "🏠 Home":
 elif page == "📝 Model Input":
 
     st.markdown('<p class="title">📝 Enter Narrative for Screening</p>', unsafe_allow_html=True)
-    st.markdown('<p class="subtitle">Your text will be analyzed by both models.</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Your text will be analyzed by the FinBERT model.</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     user_text = st.text_area(
@@ -154,7 +150,7 @@ elif page == "📝 Model Input":
 elif page == "📊 Prediction Page":
 
     st.markdown('<p class="title">📊 Prediction Results</p>', unsafe_allow_html=True)
-    st.markdown('<p class="subtitle">Results from Baseline & FinBERT Models</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Classification Using the FinBERT Model</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     if "user_text" not in st.session_state:
@@ -162,25 +158,14 @@ elif page == "📊 Prediction Page":
     else:
         text = st.session_state["user_text"]
 
-        with st.spinner("Running both models..."):
-            baseline = predict_narrative(text)
+        with st.spinner("Running FinBERT model..."):
             finbert = predict_finbert(text)
 
-        col1, col2 = st.columns(2)
-
-        with col1:
-            st.markdown("### 🧠 Baseline Model")
-            st.markdown('<div class="result-box">', unsafe_allow_html=True)
-            st.write("**Prediction:**", baseline["prediction"])
-            st.write("**Non-Compliant Probability:**", round(baseline["prob_non_compliant"], 4))
-            st.markdown('</div>', unsafe_allow_html=True)
-
-        with col2:
-            st.markdown("### 🤖 FinBERT Model (Original)")
-            st.markdown('<div class="result-box">', unsafe_allow_html=True)
-            st.write("**Prediction:**", finbert["prediction"])
-            st.write("**Non-Compliant Probability:**", round(finbert["prob_non_compliant"], 4))
-            st.markdown('</div>', unsafe_allow_html=True)
+        st.markdown("### 🤖 FinBERT Model Prediction")
+        st.markdown('<div class="result-box">', unsafe_allow_html=True)
+        st.write("**Prediction:**", finbert["prediction"])
+        st.write("**Non-Compliant Probability:**", round(finbert["prob_non_compliant"], 4))
+        st.markdown('</div>', unsafe_allow_html=True)
 
         st.success("🎉 Classification complete!")
 
