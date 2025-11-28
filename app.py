@@ -1,39 +1,12 @@
+# ===========================================================
+# STREAMLIT APP (app.py)
+# ===========================================================
+
 import streamlit as st
-import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from src.models.finbert_predict import predict_finbert   # <-- IMPORTANT FIX
 
 # ===========================================================
-# 1. LOAD ORIGINAL FINBERT (cached)
-# ===========================================================
-@st.cache_resource
-def load_finbert():
-    MODEL_NAME = "yiyanghkust/finbert-tone"
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-    model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
-    model.eval()
-    return tokenizer, model
-
-tokenizer, finbert_model = load_finbert()
-
-
-def predict_finbert(text):
-    inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
-    outputs = finbert_model(**inputs)
-
-    probs = torch.softmax(outputs.logits, dim=1).detach().numpy()[0]
-    prob_compliant = probs[0]
-    prob_non_compliant = probs[1]
-
-    label = "Non-Compliant" if prob_non_compliant > 0.5 else "Compliant"
-
-    return {
-        "prediction": label,
-        "prob_non_compliant": float(prob_non_compliant)
-    }
-
-
-# ===========================================================
-# 2. STREAMLIT PAGE CONFIG
+# STREAMLIT PAGE CONFIG
 # ===========================================================
 st.set_page_config(
     page_title="AML Narrative Classification System",
@@ -41,9 +14,8 @@ st.set_page_config(
     page_icon="🔍"
 )
 
-
 # ===========================================================
-# 3. CUSTOM STYLING
+# CUSTOM STYLING
 # ===========================================================
 st.markdown("""
     <style>
@@ -67,12 +39,6 @@ st.markdown("""
             border-left: 6px solid #4F8BF9;
             margin-bottom: 20px;
         }
-        .section-title {
-            font-size: 22px;
-            font-weight: 600;
-            color: #4F8BF9;
-            margin-top: 20px;
-        }
         .footer {
             font-size: 13px;
             text-align: center;
@@ -84,17 +50,28 @@ st.markdown("""
 
 
 # ===========================================================
-# 4. SIDEBAR NAVIGATION
+# SIDEBAR NAVIGATION
 # ===========================================================
 st.sidebar.title("📌 Navigation Menu")
+
 page = st.sidebar.radio(
     "Go to:",
     ["🏠 Home", "📝 Model Input", "📊 Prediction Page"]
 )
 
+# Let user choose threshold for AML sensitivity
+threshold = st.sidebar.slider(
+    "Non-Compliant Threshold",
+    min_value=0.10,
+    max_value=0.60,
+    value=0.30,
+    step=0.05,
+    help="Lower = more sensitive (more Non-Compliant flags)"
+)
+
 
 # ===========================================================
-# 5. HOME PAGE
+# 1. HOME PAGE
 # ===========================================================
 if page == "🏠 Home":
     st.markdown('<p class="title">🔍 AML Narrative Classification System</p>', unsafe_allow_html=True)
@@ -106,67 +83,74 @@ if page == "🏠 Home":
     This system analyzes transaction narratives and predicts whether they are **Compliant** or **Non-Compliant** using:
 
     - 🤖 **FinBERT Transformer Model**  
-      Pre-trained on financial text for high-accuracy compliance interpretation.
+      Pre-trained on financial text.
 
     ### ⭐ Features
-    - Real-time text classification  
+    - Real-time classification  
     - Probability scoring  
-    - Clean, user-friendly interface  
-    - Deployed on Streamlit Cloud  
+    - Simple interface  
+    - Streamlit deployment  
     """)
 
     st.markdown("---")
     st.markdown('<p class="footer">AML Automation System • Powered by FinBERT NLP</p>', unsafe_allow_html=True)
 
 
+
 # ===========================================================
-# 6. MODEL INPUT PAGE
+# 2. MODEL INPUT PAGE
 # ===========================================================
 elif page == "📝 Model Input":
 
     st.markdown('<p class="title">📝 Enter Narrative for Screening</p>', unsafe_allow_html=True)
-    st.markdown('<p class="subtitle">Your text will be analyzed by the FinBERT model.</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Your text will be analyzed by FinBERT.</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     user_text = st.text_area(
         "Enter Transaction Narrative:",
         height=200,
-        placeholder="Example: Large transfer to Dubai with missing KYC documents..."
+        placeholder="Example: Transfer of 500,000 USD to foreign account with unexplained purpose..."
     )
 
     if st.button("Save Narrative"):
         if user_text.strip() != "":
             st.session_state["user_text"] = user_text
-            st.success("Narrative saved! Go to 'Prediction Page' to classify it.")
+            st.success("Narrative saved successfully! Go to 'Prediction Page'.")
         else:
-            st.warning("Please enter text before saving.")
+            st.warning("Please enter a narrative before saving.")
 
     st.markdown('<p class="footer">Input Page • AML System</p>', unsafe_allow_html=True)
 
 
+
 # ===========================================================
-# 7. PREDICTION PAGE
+# 3. PREDICTION PAGE
 # ===========================================================
 elif page == "📊 Prediction Page":
 
     st.markdown('<p class="title">📊 Prediction Results</p>', unsafe_allow_html=True)
-    st.markdown('<p class="subtitle">Classification Using the FinBERT Model</p>', unsafe_allow_html=True)
+    st.markdown('<p class="subtitle">Classification using FinBERT</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     if "user_text" not in st.session_state:
-        st.warning("Please go to 'Model Input' and enter a narrative first.")
+        st.warning("Please enter a narrative first on the Model Input page.")
     else:
         text = st.session_state["user_text"]
 
         with st.spinner("Running FinBERT model..."):
-            finbert = predict_finbert(text)
+            finbert_output = predict_finbert(text, threshold=threshold)
 
         st.markdown("### 🤖 FinBERT Model Prediction")
         st.markdown('<div class="result-box">', unsafe_allow_html=True)
-        st.write("**Prediction:**", finbert["prediction"])
-        st.write("**Non-Compliant Probability:**", round(finbert["prob_non_compliant"], 4))
+        st.write("**Prediction:**", finbert_output["prediction"])
+        st.write("**Non-Compliant Probability:**", round(finbert_output["prob_non_compliant"], 4))
+        st.write("**Sentiment Detected:**", finbert_output["raw_sentiment_label"])
         st.markdown('</div>', unsafe_allow_html=True)
 
         st.success("🎉 Classification complete!")
+
+        # Debug information
+        with st.expander("🔎 Debug: Raw Model Outputs"):
+            st.json(finbert_output)
 
     st.markdown('<p class="footer">Prediction Page • AML System</p>', unsafe_allow_html=True)
